@@ -10,10 +10,14 @@ s.addEventListener('scroll',()=>{const k=Math.round(s.scrollLeft/s.clientWidth);
 // GA4 events (gtag loaded in <head>; no-op if blocked)
 const ga=(n,o)=>{try{if(typeof window.gtag==='function')window.gtag('event',n,Object.assign({page_type:PT},o))}catch(e){}};
 const PT=(()=>{const s=location.pathname.split('/').filter(Boolean)[0]||'home';return s.replace(/\.html$/,'')||'home'})();
+// CTA A/B (sticky per browser). Split for B comes from <meta name=ni-cta-b> (learning loop; default 0.5). Variant also encoded in event names so GA standard reports show it without custom dimensions.
+const V=(()=>{try{let v=localStorage.getItem('ni_cv');const m=$('meta[name="ni-cta-b"]');const pb=m?+m.content:0.5;if(v!=='a'&&v!=='b'){v=Math.random()<pb?'b':'a';localStorage.setItem('ni_cv',v)}return v}catch(e){return 'a'}})();
+if(V==='b')$('.cta[data-b]').forEach(a=>{const c=$('.cl',a);if(c)c.textContent=a.dataset.b});
+if($('.cta'))ga('nicta_view_'+V,{cta_variant:V});
 document.addEventListener('click',e=>{const a=e.target&&e.target.closest&&e.target.closest('a[href]');if(!a)return;let u;try{u=new URL(a.href,location.href)}catch(_){return}
 if(!/(^|\.)(dmm\.co\.jp|dmm\.com|fanza\.co\.jp)$/.test(u.hostname))return;
-const pos=a.closest('.sticky-cta')?'sticky':a.closest('.cta-wrap')?'below_gallery':a.closest('.pbox')?'main':a.closest('footer')?'footer':'other';
-ga('fanza_click',{item_id:a.dataset.niId||'',button_position:pos,link_domain:u.hostname,transport_type:'beacon'})},true);
+const pos=a.closest('.fb')?'first_buyer':a.closest('.sticky-cta')?'sticky':a.closest('.cta-wrap')?'below_gallery':a.closest('.pbox')?'main':a.closest('footer')?'footer':'other';
+ga('fanza_click',{item_id:a.dataset.niId||'',button_position:pos,cta_variant:V,link_domain:u.hostname,transport_type:'beacon'});ga('nicta_'+V+'_'+pos,{transport_type:'beacon'});ga('nic_'+String(PT).replace(/[^a-z0-9_]/gi,'_').slice(0,30),{transport_type:'beacon'})},true);
 // sort / filter / search (+ catalog pagination from JSON chunks)
 const g=$('#g');if(g){const orig=$$('.c',g);const q=(new URLSearchParams(location.search).get('q')||'').trim().toLowerCase();const si=$('.search input');if(si&&q)si.value=q;
 let key='',saleOnly=false,genre='';const hits=$('[data-hits]');const CH=+g.dataset.chunks||0,PAGE=60;let loaded=0,all=null,lim=CH?PAGE:1e9;const more=$('[data-more]');

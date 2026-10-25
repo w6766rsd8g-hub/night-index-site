@@ -79,3 +79,6 @@ button{font:inherit;cursor:pointer}.gate button{border:0;border-radius:12px;padd
 .foot{border-top:1px solid var(--ln);background:#08080c;padding:30px 16px calc(80px + env(safe-area-inset-bottom));display:grid;gap:18px;max-width:none}.foot>*{max-width:1280px;width:100%;margin:0 auto}.foot p{color:var(--mu);font-size:13px;line-height:1.7}.foot-links{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:#cfcfda}.foot-links a:hover{color:#fff}.credit{font-size:12px!important}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 .more{text-align:center;margin:18px 0 8px}.more button{background:var(--s2);border:1px solid var(--ln);color:var(--fg);border-radius:999px;padding:12px 28px;font-size:14px}.more button[hidden]{display:none}
+/* sprint 2026-10-26: floor badge, first-buyer box, secondary CTA */
+.bd.fl{background:#2b2b3a;color:#e8e8f0}
+.fb{background:linear-gradient(160deg,#1a2a22,#141c18);border:1px solid #2f4a3c;border-radius:16px;padding:14px 16px;margin:0 0 22px;font-size:14px;line-height:1.75}.fb p{margin:0 0 10px}.fb b{color:#9ff0c4;margin-right:6px}.cta2{display:inline-block;background:#1f8f5f;color:#fff;font-weight:800;border-radius:12px;padding:10px 16px}.cta2:hover{background:#25a86f}.fbg{font-size:12px;color:#cfe;text-decoration:underline;margin-left:8px}
