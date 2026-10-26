@@ -14,10 +14,13 @@ const PT=(()=>{const s=location.pathname.split('/').filter(Boolean)[0]||'home';r
 const V=(()=>{try{let v=localStorage.getItem('ni_cv');const m=$('meta[name="ni-cta-b"]');const pb=m?+m.content:0.5;if(v!=='a'&&v!=='b'){v=Math.random()<pb?'b':'a';localStorage.setItem('ni_cv',v)}return v}catch(e){return 'a'}})();
 if(V==='b')$('.cta[data-b]').forEach(a=>{const c=$('.cl',a);if(c)c.textContent=a.dataset.b});
 if($('.cta'))ga('nicta_view_'+V,{cta_variant:V});
+// GROKBOT t294 persuasion teaser variant (data-backed copy only). Weights from <meta name=ni-pv> (learning loop, 20% exploration); p3 = control.
+const TZ=$('[data-pv]');const PV=(()=>{if(!TZ)return '';try{const m=$('meta[name="ni-pv"]');const W=m?JSON.parse(m.content):{};let v=localStorage.getItem('ni_pv');if(!(v in W)){let r=Math.random()*Object.values(W).reduce((s,x)=>s+(+x||0),0);v='p3';for(const [k,x] of Object.entries(W)){r-=+x||0;if(r<=0){v=k;break}}localStorage.setItem('ni_pv',v)}return v}catch(e){return 'p0'}})();
+if(TZ){const vs=$$('.tzv',TZ);const hit=vs.find(e=>e.dataset.v===PV);vs.forEach(e=>e.hidden=e!==hit);if(!hit)TZ.classList.add('ctl');ga('nipv_view_'+(hit?PV:'p3'),{pv:hit?PV:'p3'})}
 document.addEventListener('click',e=>{const a=e.target&&e.target.closest&&e.target.closest('a[href]');if(!a)return;let u;try{u=new URL(a.href,location.href)}catch(_){return}
 if(!/(^|\.)(dmm\.co\.jp|dmm\.com|fanza\.co\.jp)$/.test(u.hostname))return;
 const pos=a.closest('.fb')?'first_buyer':a.closest('.sticky-cta')?'sticky':a.closest('.cta-wrap')?'below_gallery':a.closest('.pbox')?'main':a.closest('footer')?'footer':'other';
-ga('fanza_click',{item_id:a.dataset.niId||'',button_position:pos,cta_variant:V,link_domain:u.hostname,transport_type:'beacon'});ga('nicta_'+V+'_'+pos,{transport_type:'beacon'});ga('nic_'+String(PT).replace(/[^a-z0-9_]/gi,'_').slice(0,30),{transport_type:'beacon'})},true);
+ga('fanza_click',{item_id:a.dataset.niId||'',button_position:pos,cta_variant:V,link_domain:u.hostname,transport_type:'beacon'});ga('nicta_'+V+'_'+pos,{transport_type:'beacon'});if(TZ){const pv=$$('.tzv',TZ).some(e=>!e.hidden)?PV:'p3';ga('nipv_'+pv+'_click',{transport_type:'beacon'})}ga('nic_'+String(PT).replace(/[^a-z0-9_]/gi,'_').slice(0,30),{transport_type:'beacon'})},true);
 // sort / filter / search (+ catalog pagination from JSON chunks)
 const g=$('#g');if(g){const orig=$$('.c',g);const q=(new URLSearchParams(location.search).get('q')||'').trim().toLowerCase();const si=$('.search input');if(si&&q)si.value=q;
 let key='',saleOnly=false,genre='';const hits=$('[data-hits]');const CH=+g.dataset.chunks||0,PAGE=60;let loaded=0,all=null,lim=CH?PAGE:1e9;const more=$('[data-more]');
