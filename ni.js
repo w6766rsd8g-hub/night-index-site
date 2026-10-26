@@ -7,7 +7,7 @@ s.addEventListener('scroll',()=>{const k=Math.round(s.scrollLeft/s.clientWidth);
 const ga=(n,o)=>{try{if(typeof window.gtag==='function')window.gtag('event',n,Object.assign({page_type:PT,ni_theme:document.documentElement.getAttribute('data-theme-eff')||''},o))}catch(e){}};
 const PT=(()=>{const s=location.pathname.split('/').filter(Boolean)[0]||'home';return s.replace(/\.html$/,'')||'home'})();
 const V=(()=>{try{let v=localStorage.getItem('ni_cv');const m=$('meta[name="ni-cta-b"]');const pb=m?+m.content:0.5;if(v!=='a'&&v!=='b'){v=Math.random()<pb?'b':'a';localStorage.setItem('ni_cv',v)}return v}catch(e){return 'a'}})();
-if(V==='b')$('.cta[data-b]').forEach(a=>{const c=$('.cl',a);if(c)c.textContent=a.dataset.b});
+if(V==='b')$$('.cta[data-b]').forEach(a=>{const c=$('.cl',a);if(c)c.textContent=a.dataset.b});
 if($('.cta'))ga('nicta_view_'+V,{cta_variant:V});
 const TZ=$('[data-pv]');const PV=(()=>{if(!TZ)return '';try{const m=$('meta[name="ni-pv"]');const W=m?JSON.parse(m.content):{};let v=localStorage.getItem('ni_pv');if(!(v in W)){let r=Math.random()*Object.values(W).reduce((s,x)=>s+(+x||0),0);v='p3';for(const [k,x] of Object.entries(W)){r-=+x||0;if(r<=0){v=k;break}}localStorage.setItem('ni_pv',v)}return v}catch(e){return 'p0'}})();
 if(TZ){const vs=$$('.tzv',TZ);const hit=vs.find(e=>e.dataset.v===PV);vs.forEach(e=>e.hidden=e!==hit);if(!hit)TZ.classList.add('ctl');ga('nipv_view_'+(hit?PV:'p3'),{pv:hit?PV:'p3'})}
