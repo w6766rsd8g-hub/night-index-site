@@ -64,6 +64,9 @@ if(n>lim){if(!btn){btn=document.createElement('button');btn.type='button';btn.cl
 $$('.fc').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.fk,v=b.dataset.fv;const on=b.getAttribute('aria-pressed')!=='true';
 $$('.fc[data-fk="'+k+'"]').forEach(x=>x.setAttribute('aria-pressed','false'));if(on){fs[k]=v;b.setAttribute('aria-pressed','true')}else delete fs[k];lim=FIRST;const n=upd();ga('filter_chip',{filter_type:k,filter_value:on?v:'off',results:n,list:P})}));
 upd();const mo=new MutationObserver(()=>{mo.disconnect();upd();mo.observe(g,{childList:true})});mo.observe(g,{childList:true})}
+$$('[data-sv-play]').forEach(b=>b.addEventListener('click',()=>{const f=b.closest('.sv-f');if(!f||$('iframe',f))return;const u=f.dataset.svSrc;try{const q=new URL(u);if(q.hostname!=='www.dmm.co.jp'||!q.pathname.startsWith('/litevideo/'))return}catch(e){return}
+const i=document.createElement('iframe');i.src=u;i.title='FANZA公式サンプル動画';i.allowFullscreen=true;i.setAttribute('allow','autoplay; fullscreen');i.setAttribute('scrolling','no');f.appendChild(i);b.remove();const im=$('img',f);if(im)im.remove();ga('sample_play',{item_id:f.dataset.niId||'',page_type:P.split('/')[1]||'home'})}));
+document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a.c');if(!a)return;const src=a.closest('[data-svlist]')?'sample_page':a.closest('[data-svrail]')?'home_rail':'';if(src)ga('sample_page_click',{source:src,link_url:a.getAttribute('href')})},true);
 const RK='ni_recent';const get=()=>{try{return JSON.parse(localStorage.getItem(RK)||'[]')}catch(e){return []}};
 if(P.startsWith('/item/')){const t=($('meta[property="og:title"]')||{}).content||document.title,im=($('meta[property="og:image"]')||{}).content||'';
 if(im&&/^https:\/\/[a-z0-9.-]*dmm\.(co\.jp|com)\//.test(im)){const r=get().filter(x=>x.u!==P);r.unshift({u:P,t:t.replace(/ \| NIGHT INDEX$/,'').slice(0,80),i:im});try{localStorage.setItem(RK,JSON.stringify(r.slice(0,12)))}catch(e){}}}
