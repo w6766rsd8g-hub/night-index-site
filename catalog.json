@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:18:34.435Z",
+  "updatedAt": "2026-10-27T07:50:36.958Z",
   "items": [
     {
       "productId": "d_799208",
@@ -116859,7 +116859,15 @@
         "https://pics.dmm.co.jp/digital/video/agav00188/agav00188jp-10.jpg",
         "https://pics.dmm.co.jp/digital/video/agav00188/agav00188jp-11.jpg",
         "https://pics.dmm.co.jp/digital/video/agav00188/agav00188jp-12.jpg"
-      ]
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=agav188/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "nsfs00528",
