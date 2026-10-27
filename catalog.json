@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T03:34:01.967Z",
+  "updatedAt": "2026-10-27T04:06:21.217Z",
   "items": [
     {
       "productId": "d_799208",
@@ -7092,6 +7092,91 @@
       }
     },
     {
+      "productId": "d_796059",
+      "title": "今泉ん家はどうやらギャルの溜まり場になってるらしい8",
+      "priceYen": 1210,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,210",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059pl.jpg",
+      "reviewCount": 32,
+      "reviewAverage": 4.81,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_796059%2F&af_id=nightidx26-990&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 1,
+      "pages": 100,
+      "releaseDate": "2026-10-24T00:00:00+09:00",
+      "genres": [
+        {
+          "id": "1034",
+          "name": "ギャル"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5022",
+          "name": "3P・4P"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "155017",
+          "name": "言葉責め"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160058",
+          "name": "潮吹き"
+        },
+        {
+          "id": "160161",
+          "name": "種付けプレス"
+        },
+        {
+          "id": "152004",
+          "name": "ラブラブ・あまあま"
+        }
+      ],
+      "maker": {
+        "id": "73183",
+        "name": "のり御膳（のり伍郎）"
+      },
+      "series": {
+        "id": "3002120",
+        "name": "今泉ん家はどうやらギャルの溜まり場になってるらしい"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-005.jpg"
+      ]
+    },
+    {
       "productId": "d_507053",
       "title": "今泉ん家はどうやらギャルの溜まり場になってるらしい 総集編2",
       "priceYen": 3190,
@@ -7262,91 +7347,6 @@
         "sp": true,
         "pc": true
       }
-    },
-    {
-      "productId": "d_796059",
-      "title": "今泉ん家はどうやらギャルの溜まり場になってるらしい8",
-      "priceYen": 1210,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥1,210",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059pl.jpg",
-      "reviewCount": 31,
-      "reviewAverage": 4.81,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_796059%2F&af_id=nightidx26-990&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 1,
-      "pages": 100,
-      "releaseDate": "2026-10-24T00:00:00+09:00",
-      "genres": [
-        {
-          "id": "1034",
-          "name": "ギャル"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5022",
-          "name": "3P・4P"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "155017",
-          "name": "言葉責め"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160058",
-          "name": "潮吹き"
-        },
-        {
-          "id": "160161",
-          "name": "種付けプレス"
-        },
-        {
-          "id": "152004",
-          "name": "ラブラブ・あまあま"
-        }
-      ],
-      "maker": {
-        "id": "73183",
-        "name": "のり御膳（のり伍郎）"
-      },
-      "series": {
-        "id": "3002120",
-        "name": "今泉ん家はどうやらギャルの溜まり場になってるらしい"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_796059/d_796059jp-005.jpg"
-      ]
     },
     {
       "productId": "sone00042",
@@ -10057,6 +10057,91 @@
       }
     },
     {
+      "productId": "d_830408",
+      "title": "ヤリ上がりアイランド！",
+      "priceYen": 2200,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥2,200（セール中 ¥1,760）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408pl.jpg",
+      "reviewCount": 342,
+      "reviewAverage": 4.2,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_830408%2F&af_id=nightidx26-990&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 46,
+      "releaseDate": "2026-10-03T00:00:00+09:00",
+      "discountPct": 19,
+      "genres": [
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4020",
+          "name": "野外・露出"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5003",
+          "name": "ぶっかけ"
+        },
+        {
+          "id": "5019",
+          "name": "パイズリ"
+        },
+        {
+          "id": "7110",
+          "name": "シミュレーション"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "153032",
+          "name": "癒し"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "13",
+          "name": "動画・アニメーション"
+        },
+        {
+          "id": "15",
+          "name": "音声付き"
+        }
+      ],
+      "maker": {
+        "id": "238132",
+        "name": "EROS"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-009.jpg"
+      ]
+    },
+    {
       "productId": "mrpa00012",
       "title": "悪徳出張エステの餌食になった爆乳妻 依存性の高いとろっとろの媚薬を大きなおっぱいに塗り付けられる快楽にハマって連日中出し懇願 宝田もなみ",
       "priceYen": 680,
@@ -10406,91 +10491,6 @@
         "sp": true,
         "pc": true
       }
-    },
-    {
-      "productId": "d_830408",
-      "title": "ヤリ上がりアイランド！",
-      "priceYen": 2200,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥2,200（セール中 ¥1,760）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408pl.jpg",
-      "reviewCount": 341,
-      "reviewAverage": 4.2,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_830408%2F&af_id=nightidx26-990&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 46,
-      "releaseDate": "2026-10-03T00:00:00+09:00",
-      "discountPct": 19,
-      "genres": [
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4020",
-          "name": "野外・露出"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5003",
-          "name": "ぶっかけ"
-        },
-        {
-          "id": "5019",
-          "name": "パイズリ"
-        },
-        {
-          "id": "7110",
-          "name": "シミュレーション"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "153032",
-          "name": "癒し"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "13",
-          "name": "動画・アニメーション"
-        },
-        {
-          "id": "15",
-          "name": "音声付き"
-        }
-      ],
-      "maker": {
-        "id": "238132",
-        "name": "EROS"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_830408/d_830408jp-009.jpg"
-      ]
     },
     {
       "productId": "juq00323",
@@ -73540,7 +73540,7 @@
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D62qnbm00171&af_id=nightidx26-990&ch=api",
       "floor": "anime",
       "floorLabel": "アニメ",
-      "apiRank": 190,
+      "apiRank": 191,
       "releaseDate": "2026-10-02T00:00:02+09:00",
       "volumeMinutes": 20,
       "genres": [
@@ -75309,82 +75309,6 @@
       }
     },
     {
-      "productId": "196glod00152",
-      "title": "OVA義姉はヤンママ授乳中＃1 義姉と母乳と浮気セックス",
-      "priceYen": 3870,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥3,870〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152pl.jpg",
-      "reviewCount": 72,
-      "reviewAverage": 4.83,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D196glod00152&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 177,
-      "releaseDate": "2020-06-05T10:00:04+09:00",
-      "volumeMinutes": 17,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5060",
-          "name": "母乳"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        }
-      ],
-      "maker": {
-        "id": "45012",
-        "name": "ルネピクチャーズ"
-      },
-      "series": {
-        "id": "223974",
-        "name": "義姉はヤンママシリーズ"
-      },
-      "label": {
-        "id": "24860",
-        "name": "ばにぃうぉ～か～"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=196glod0152/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "b104atint02619",
       "title": "味をしめたら戻れない（粗目リコ）（単話）",
       "priceYen": 330,
@@ -76496,6 +76420,82 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=sone00960/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "196glod00152",
+      "title": "OVA義姉はヤンママ授乳中＃1 義姉と母乳と浮気セックス",
+      "priceYen": 3870,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥3,870〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152pl.jpg",
+      "reviewCount": 72,
+      "reviewAverage": 4.83,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D196glod00152&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 178,
+      "releaseDate": "2020-06-05T10:00:04+09:00",
+      "volumeMinutes": 17,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5060",
+          "name": "母乳"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        }
+      ],
+      "maker": {
+        "id": "45012",
+        "name": "ルネピクチャーズ"
+      },
+      "series": {
+        "id": "223974",
+        "name": "義姉はヤンママシリーズ"
+      },
+      "label": {
+        "id": "24860",
+        "name": "ばにぃうぉ～か～"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00152/196glod00152jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=196glod0152/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -82211,82 +82211,6 @@
       ]
     },
     {
-      "productId": "196glod00305",
-      "title": "OVA妻に黙って即売会に行くんじゃなかった ＃1",
-      "priceYen": 4200,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,200〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305pl.jpg",
-      "reviewCount": 6,
-      "reviewAverage": 4.5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D196glod00305&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 173,
-      "releaseDate": "2023-10-06T10:00:04+09:00",
-      "volumeMinutes": 16,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "3027",
-          "name": "エプロン"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        }
-      ],
-      "maker": {
-        "id": "45012",
-        "name": "ルネピクチャーズ"
-      },
-      "series": {
-        "id": "4346567",
-        "name": "OVA妻に黙って即売会に行くんじゃなかった シリーズ"
-      },
-      "label": {
-        "id": "26273",
-        "name": "あんてきぬすっ"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=196glod0305/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "bibivr00132",
       "title": "【VR】太客には特別な生ハメ性交とパイズリしごきの超絶搾精サービスを…本場関西ちょんの間の巨乳大当たり嬢 美園和花",
       "priceYen": 590,
@@ -83747,6 +83671,82 @@
         "https://doujin-assets.dmm.co.jp/digital/cg/d_839055/d_839055jp-006.jpg",
         "https://doujin-assets.dmm.co.jp/digital/cg/d_839055/d_839055jp-007.jpg"
       ]
+    },
+    {
+      "productId": "196glod00305",
+      "title": "OVA妻に黙って即売会に行くんじゃなかった ＃1",
+      "priceYen": 4200,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,200〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305pl.jpg",
+      "reviewCount": 6,
+      "reviewAverage": 4.5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D196glod00305&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 174,
+      "releaseDate": "2023-10-06T10:00:04+09:00",
+      "volumeMinutes": 16,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "3027",
+          "name": "エプロン"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        }
+      ],
+      "maker": {
+        "id": "45012",
+        "name": "ルネピクチャーズ"
+      },
+      "series": {
+        "id": "4346567",
+        "name": "OVA妻に黙って即売会に行くんじゃなかった シリーズ"
+      },
+      "label": {
+        "id": "26273",
+        "name": "あんてきぬすっ"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/196glod00305/196glod00305jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=196glod0305/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "b350eftdb46008",
@@ -85672,62 +85672,6 @@
       }
     },
     {
-      "productId": "h_1326tid01224an02",
-      "title": "夫婦交歓～戻れない夜～【プレミアム版】",
-      "priceYen": 7040,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥7,040",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02pl.jpg",
-      "reviewCount": 2,
-      "reviewAverage": 4.5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1326tid01224an02&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 180,
-      "releaseDate": "2024-01-01T10:00:08+09:00",
-      "volumeMinutes": 55,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "6970",
-          "name": "スワッピング・夫婦交換"
-        },
-        {
-          "id": "555",
-          "name": "恋愛"
-        }
-      ],
-      "maker": {
-        "id": "60874",
-        "name": "彗星社"
-      },
-      "series": {
-        "id": "4430565",
-        "name": "夫婦交歓～戻れない夜～"
-      },
-      "label": {
-        "id": "2063121",
-        "name": "AnimeFestaオリジナル"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-12.jpg"
-      ]
-    },
-    {
       "productId": "d_482057",
       "title": "田舎のドスケベ爆乳お姉さんと汗だくオホ声セックスする淫猥な夏。",
       "priceYen": 1650,
@@ -86855,6 +86799,62 @@
       }
     },
     {
+      "productId": "h_1326tid01224an02",
+      "title": "夫婦交歓～戻れない夜～【プレミアム版】",
+      "priceYen": 7040,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥7,040",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02pl.jpg",
+      "reviewCount": 2,
+      "reviewAverage": 4.5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1326tid01224an02&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 181,
+      "releaseDate": "2024-01-01T10:00:08+09:00",
+      "volumeMinutes": 55,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "6970",
+          "name": "スワッピング・夫婦交換"
+        },
+        {
+          "id": "555",
+          "name": "恋愛"
+        }
+      ],
+      "maker": {
+        "id": "60874",
+        "name": "彗星社"
+      },
+      "series": {
+        "id": "4430565",
+        "name": "夫婦交歓～戻れない夜～"
+      },
+      "label": {
+        "id": "2063121",
+        "name": "AnimeFestaオリジナル"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1326tid01224an02/h_1326tid01224an02jp-12.jpg"
+      ]
+    },
+    {
       "productId": "dss00247",
       "title": "素人ナンパGET！！No.247 ディープスポットのほろ酔い女子にナマ汁ラブ注入！ BLACK MANIA編",
       "priceYen": 980,
@@ -87542,70 +87542,6 @@
         "name": "120点のアイツ"
       },
       "freeSample": true
-    },
-    {
-      "productId": "h_402mjad00347",
-      "title": "初めてのヒトヅマ 第5話J系ママの試験対策",
-      "priceYen": 3300,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥3,300〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347pl.jpg",
-      "reviewCount": 8,
-      "reviewAverage": 4.38,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_402mjad00347&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 174,
-      "releaseDate": "2024-04-26T10:00:01+09:00",
-      "volumeMinutes": 17,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        }
-      ],
-      "maker": {
-        "id": "45641",
-        "name": "メリー・ジェーン"
-      },
-      "series": {
-        "id": "223580",
-        "name": "初めてのヒトヅマ"
-      },
-      "label": {
-        "id": "20529",
-        "name": "メリー・ジェーン"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_402mjad347/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
     },
     {
       "productId": "midv00945",
@@ -89026,6 +88962,70 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=jyma00077/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "h_402mjad00347",
+      "title": "初めてのヒトヅマ 第5話J系ママの試験対策",
+      "priceYen": 3300,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥3,300〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347pl.jpg",
+      "reviewCount": 8,
+      "reviewAverage": 4.38,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_402mjad00347&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 175,
+      "releaseDate": "2024-04-26T10:00:01+09:00",
+      "volumeMinutes": 17,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        }
+      ],
+      "maker": {
+        "id": "45641",
+        "name": "メリー・ジェーン"
+      },
+      "series": {
+        "id": "223580",
+        "name": "初めてのヒトヅマ"
+      },
+      "label": {
+        "id": "20529",
+        "name": "メリー・ジェーン"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_402mjad00347/h_402mjad00347jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_402mjad347/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -90705,92 +90705,6 @@
       }
     },
     {
-      "productId": "d_776364",
-      "title": "お前の母ちゃん、ムカつくから調教しまくったら、どうなったと思う？",
-      "priceYen": 770,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥770",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364pl.jpg",
-      "reviewCount": 1,
-      "reviewAverage": 3,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_776364%2F&af_id=nightidx26-990&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 156,
-      "pages": 70,
-      "releaseDate": "2026-10-25T00:00:00+09:00",
-      "genres": [
-        {
-          "id": "27",
-          "name": "辱め"
-        },
-        {
-          "id": "1014",
-          "name": "熟女"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4111",
-          "name": "寝取り・寝取られ・NTR"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "154044",
-          "name": "母親"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "25",
-          "name": "拘束"
-        },
-        {
-          "id": "1034",
-          "name": "ギャル"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        }
-      ],
-      "maker": {
-        "id": "201842",
-        "name": "すめるすらいく"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-009.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-010.jpg"
-      ]
-    },
-    {
       "productId": "d_840612",
       "title": "手袋くすぐりまとめ3（FANBOX）",
       "priceYen": 660,
@@ -91888,78 +91802,6 @@
       }
     },
     {
-      "productId": "h_1379jdxa57802",
-      "title": "元カレとはできなかったセックスしてもいいですか？",
-      "priceYen": 4950,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,950〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802pl.jpg",
-      "reviewCount": 1,
-      "reviewAverage": 5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57802&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 186,
-      "releaseDate": "2025-10-03T00:00:00+09:00",
-      "volumeMinutes": 30,
-      "genres": [
-        {
-          "id": "1031",
-          "name": "痴女"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4030",
-          "name": "淫乱・ハード系"
-        },
-        {
-          "id": "569",
-          "name": "ラブコメ"
-        },
-        {
-          "id": "5017",
-          "name": "おもちゃ"
-        },
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        }
-      ],
-      "maker": {
-        "id": "45018",
-        "name": "ピンクパイナップル"
-      },
-      "label": {
-        "id": "102",
-        "name": "Pink Pineapple"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57802/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "d_805271",
       "title": "無表情×淡々×シスター→なのに即イキ雑魚まんこ♪ 〜まんこイくときは「愛してる」って言えっ！！って調教済み♪〜",
       "priceYen": 1540,
@@ -92119,6 +91961,74 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=cemd00919/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "ad035",
+      "title": "わかな",
+      "priceYen": 1400,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,400〜（セール中 ¥980〜）",
+      "imageURL": "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jm.jpg",
+      "reviewCount": 26,
+      "reviewAverage": 4.81,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dad035&af_id=nightidx26-990&ch=api",
+      "floor": "videoc",
+      "floorLabel": "素人",
+      "apiRank": 198,
+      "releaseDate": "2020-11-05T10:00:06+09:00",
+      "campaignEnd": "2026-10-27T23:59:59+09:00",
+      "campaignTitle": "ネオシロウト他30％OFF",
+      "discountPct": 30,
+      "volumeMinutes": 80,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "6002",
+          "name": "ハメ撮り"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "4059",
+          "name": "キス・接吻"
+        }
+      ],
+      "maker": {
+        "id": "40452",
+        "name": "アイドリ"
+      },
+      "label": {
+        "id": "29805",
+        "name": "アイドリ"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jp-001.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jp-002.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jp-003.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jp-004.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/ad035/ad035jp-005.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=ad035/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -93294,6 +93204,78 @@
       "label": {
         "id": "2067385",
         "name": "ソクマン"
+      }
+    },
+    {
+      "productId": "h_1379jdxa57802",
+      "title": "元カレとはできなかったセックスしてもいいですか？",
+      "priceYen": 4950,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,950〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802pl.jpg",
+      "reviewCount": 1,
+      "reviewAverage": 5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57802&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 187,
+      "releaseDate": "2025-10-03T00:00:00+09:00",
+      "volumeMinutes": 30,
+      "genres": [
+        {
+          "id": "1031",
+          "name": "痴女"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4030",
+          "name": "淫乱・ハード系"
+        },
+        {
+          "id": "569",
+          "name": "ラブコメ"
+        },
+        {
+          "id": "5017",
+          "name": "おもちゃ"
+        },
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        }
+      ],
+      "maker": {
+        "id": "45018",
+        "name": "ピンクパイナップル"
+      },
+      "label": {
+        "id": "102",
+        "name": "Pink Pineapple"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57802/h_1379jdxa57802jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57802/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
       }
     },
     {
@@ -98215,82 +98197,6 @@
       }
     },
     {
-      "productId": "h_1379jdxa57770",
-      "title": "バブルdeハウスde○○○ THE ANIMATION",
-      "priceYen": 4950,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,950〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770pl.jpg",
-      "reviewCount": 8,
-      "reviewAverage": 4.5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57770&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 187,
-      "releaseDate": "2025-01-24T10:00:04+09:00",
-      "volumeMinutes": 31,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "569",
-          "name": "ラブコメ"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1019",
-          "name": "女子大生"
-        },
-        {
-          "id": "6969",
-          "name": "お風呂"
-        }
-      ],
-      "maker": {
-        "id": "45018",
-        "name": "ピンクパイナップル"
-      },
-      "series": {
-        "id": "4589261",
-        "name": "バブルdeハウスde○○○"
-      },
-      "label": {
-        "id": "102",
-        "name": "Pink Pineapple"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57770/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "cead00778",
       "title": "舐めまくられて逃げられない！無限クンニで失神寸前になる人気AV女優15人",
       "priceYen": 1480,
@@ -98832,94 +98738,6 @@
       }
     },
     {
-      "productId": "62qnbm00127",
-      "title": "断れない母 前編［gonza］",
-      "priceYen": 3520,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥3,520〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127pl.jpg",
-      "reviewCount": 1,
-      "reviewAverage": 4,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D62qnbm00127&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 179,
-      "releaseDate": "2024-12-06T10:00:01+09:00",
-      "volumeMinutes": 21,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5008",
-          "name": "オナニー"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "5004",
-          "name": "手コキ"
-        },
-        {
-          "id": "1032",
-          "name": "お母さん"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "555",
-          "name": "恋愛"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "1014",
-          "name": "熟女"
-        }
-      ],
-      "maker": {
-        "id": "40048",
-        "name": "メディアバンク"
-      },
-      "series": {
-        "id": "4461830",
-        "name": "断れない母"
-      },
-      "label": {
-        "id": "24631",
-        "name": "Queen Bee（メディアバンク）"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=62qnbm127/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "vrprd00150",
       "title": "【VR】ひびきとおっぱい子作り新婚生活 雨宮ひびき",
       "priceYen": 780,
@@ -99041,6 +98859,82 @@
         "name": "エンジェルクラブMEGA"
       },
       "freeSample": true
+    },
+    {
+      "productId": "h_1379jdxa57770",
+      "title": "バブルdeハウスde○○○ THE ANIMATION",
+      "priceYen": 4950,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,950〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770pl.jpg",
+      "reviewCount": 8,
+      "reviewAverage": 4.5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57770&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 188,
+      "releaseDate": "2025-01-24T10:00:04+09:00",
+      "volumeMinutes": 31,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "569",
+          "name": "ラブコメ"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "1019",
+          "name": "女子大生"
+        },
+        {
+          "id": "6969",
+          "name": "お風呂"
+        }
+      ],
+      "maker": {
+        "id": "45018",
+        "name": "ピンクパイナップル"
+      },
+      "series": {
+        "id": "4589261",
+        "name": "バブルdeハウスde○○○"
+      },
+      "label": {
+        "id": "102",
+        "name": "Pink Pineapple"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57770/h_1379jdxa57770jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57770/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "tkk092",
@@ -99184,74 +99078,6 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1736tbl00108ai/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
-      "productId": "403jdxa057005",
-      "title": "TSF物語 Trans.1「女体化したらナニをする？」",
-      "priceYen": 4950,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,950〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005pl.jpg",
-      "reviewCount": 7,
-      "reviewAverage": 3.57,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D403jdxa057005&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 178,
-      "releaseDate": "2019-02-01T10:00:04+09:00",
-      "volumeMinutes": 28,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "27",
-          "name": "辱め"
-        },
-        {
-          "id": "4030",
-          "name": "淫乱・ハード系"
-        }
-      ],
-      "maker": {
-        "id": "45018",
-        "name": "ピンクパイナップル"
-      },
-      "series": {
-        "id": "202670",
-        "name": "TSF物語"
-      },
-      "label": {
-        "id": "102",
-        "name": "Pink Pineapple"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=403jdxa057005/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -99510,6 +99336,94 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=mmxd00036/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "62qnbm00127",
+      "title": "断れない母 前編［gonza］",
+      "priceYen": 3520,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥3,520〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127pl.jpg",
+      "reviewCount": 1,
+      "reviewAverage": 4,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D62qnbm00127&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 180,
+      "releaseDate": "2024-12-06T10:00:01+09:00",
+      "volumeMinutes": 21,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5008",
+          "name": "オナニー"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "5004",
+          "name": "手コキ"
+        },
+        {
+          "id": "1032",
+          "name": "お母さん"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "555",
+          "name": "恋愛"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "1014",
+          "name": "熟女"
+        }
+      ],
+      "maker": {
+        "id": "40048",
+        "name": "メディアバンク"
+      },
+      "series": {
+        "id": "4461830",
+        "name": "断れない母"
+      },
+      "label": {
+        "id": "24631",
+        "name": "Queen Bee（メディアバンク）"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/62qnbm00127/62qnbm00127jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=62qnbm127/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -100268,6 +100182,74 @@
       ]
     },
     {
+      "productId": "403jdxa057005",
+      "title": "TSF物語 Trans.1「女体化したらナニをする？」",
+      "priceYen": 4950,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,950〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005pl.jpg",
+      "reviewCount": 7,
+      "reviewAverage": 3.57,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3D403jdxa057005&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 179,
+      "releaseDate": "2019-02-01T10:00:04+09:00",
+      "volumeMinutes": 28,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "27",
+          "name": "辱め"
+        },
+        {
+          "id": "4030",
+          "name": "淫乱・ハード系"
+        }
+      ],
+      "maker": {
+        "id": "45018",
+        "name": "ピンクパイナップル"
+      },
+      "series": {
+        "id": "202670",
+        "name": "TSF物語"
+      },
+      "label": {
+        "id": "102",
+        "name": "Pink Pineapple"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/403jdxa057005/403jdxa057005jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=403jdxa057005/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
       "productId": "jyma00079",
       "title": "欲求不満の爆乳尻嫁がチ〇ポを喰い放題 性欲モンスター豊満ボディ猥褻マゾ妻 M痴女の淫乱奥様がイキまくる 藤沢麗央",
       "priceYen": 980,
@@ -100708,73 +100690,6 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=pppe00163/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
-      "productId": "h_386acrn00299",
-      "title": "彼女がヤツに抱かれたヒ ～新妻のハジメテ……◆～",
-      "priceYen": 4200,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,200〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299pl.jpg",
-      "reviewCount": 10,
-      "reviewAverage": 3.9,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_386acrn00299&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 182,
-      "releaseDate": "2021-01-08T10:00:00+09:00",
-      "volumeMinutes": 19,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "1001",
-          "name": "OL"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        }
-      ],
-      "maker": {
-        "id": "45621",
-        "name": "PoROre："
-      },
-      "series": {
-        "id": "224762",
-        "name": "彼女がヤツに抱かれたヒ"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-11.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_386acrn00299/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -102393,6 +102308,73 @@
         "name": "こじらせユニコーンガール"
       },
       "freeSample": true
+    },
+    {
+      "productId": "h_386acrn00299",
+      "title": "彼女がヤツに抱かれたヒ ～新妻のハジメテ……◆～",
+      "priceYen": 4200,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,200〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299pl.jpg",
+      "reviewCount": 10,
+      "reviewAverage": 3.9,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_386acrn00299&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 183,
+      "releaseDate": "2021-01-08T10:00:00+09:00",
+      "volumeMinutes": 19,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "1001",
+          "name": "OL"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        }
+      ],
+      "maker": {
+        "id": "45621",
+        "name": "PoROre："
+      },
+      "series": {
+        "id": "224762",
+        "name": "彼女がヤツに抱かれたヒ"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_386acrn00299/h_386acrn00299jp-11.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_386acrn00299/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "vrkm01393",
@@ -107836,74 +107818,6 @@
       }
     },
     {
-      "productId": "h_826zizd03022",
-      "title": "妻ネトリ 零-僕の過ち 彼女の選択-",
-      "priceYen": 2640,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥2,640〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022pl.jpg",
-      "reviewCount": 52,
-      "reviewAverage": 3.9,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_826zizd03022&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 189,
-      "releaseDate": "2024-10-18T10:00:03+09:00",
-      "volumeMinutes": 27,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "1016",
-          "name": "女教師"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        }
-      ],
-      "maker": {
-        "id": "46140",
-        "name": "ZIZ"
-      },
-      "series": {
-        "id": "4238204",
-        "name": "妻ネトリ"
-      },
-      "label": {
-        "id": "21336",
-        "name": "ZIZ"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-9.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-10.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-11.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-12.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_826zizd03022/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "ipzz00761",
       "title": "デビュー1周年記念で温泉ロケに来た愛才りあが この後1日中ぶっ通しのキメセクで人生で最もイカされるなんて知る由もない",
       "priceYen": 1180,
@@ -108779,6 +108693,74 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=rhg00003/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "h_826zizd03022",
+      "title": "妻ネトリ 零-僕の過ち 彼女の選択-",
+      "priceYen": 2640,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥2,640〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022pl.jpg",
+      "reviewCount": 52,
+      "reviewAverage": 3.9,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_826zizd03022&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 190,
+      "releaseDate": "2024-10-18T10:00:03+09:00",
+      "volumeMinutes": 27,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "1016",
+          "name": "女教師"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        }
+      ],
+      "maker": {
+        "id": "46140",
+        "name": "ZIZ"
+      },
+      "series": {
+        "id": "4238204",
+        "name": "妻ネトリ"
+      },
+      "label": {
+        "id": "21336",
+        "name": "ZIZ"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_826zizd03022/h_826zizd03022jp-12.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_826zizd03022/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -115509,71 +115491,6 @@
       }
     },
     {
-      "productId": "orec944",
-      "title": "ひなこ＆まい",
-      "priceYen": 680,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥680〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jm.jpg",
-      "reviewCount": 15,
-      "reviewAverage": 4.4,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dorec944&af_id=nightidx26-990&ch=api",
-      "floor": "videoc",
-      "floorLabel": "素人",
-      "apiRank": 198,
-      "releaseDate": "2021-11-19T10:00:08+09:00",
-      "volumeMinutes": 73,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5022",
-          "name": "3P・4P"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "1019",
-          "name": "女子大生"
-        },
-        {
-          "id": "4006",
-          "name": "ナンパ"
-        },
-        {
-          "id": "1027",
-          "name": "美少女"
-        }
-      ],
-      "maker": {
-        "id": "300714",
-        "name": "俺の素人-Z-"
-      },
-      "label": {
-        "id": "2063018",
-        "name": "俺の素人-Z-"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-001.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-002.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-003.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-004.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-005.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=orec944/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "ntsu00198",
       "title": "お父さん以外のデカチンに発情した母娘がフェラで盛り上がって中出しSEXまでしちゃったDVD",
       "priceYen": 2480,
@@ -115911,6 +115828,71 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_386acrn00417/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "orec944",
+      "title": "ひなこ＆まい",
+      "priceYen": 680,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥680〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jm.jpg",
+      "reviewCount": 15,
+      "reviewAverage": 4.4,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dorec944&af_id=nightidx26-990&ch=api",
+      "floor": "videoc",
+      "floorLabel": "素人",
+      "apiRank": 199,
+      "releaseDate": "2021-11-19T10:00:08+09:00",
+      "volumeMinutes": 73,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5022",
+          "name": "3P・4P"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "1019",
+          "name": "女子大生"
+        },
+        {
+          "id": "4006",
+          "name": "ナンパ"
+        },
+        {
+          "id": "1027",
+          "name": "美少女"
+        }
+      ],
+      "maker": {
+        "id": "300714",
+        "name": "俺の素人-Z-"
+      },
+      "label": {
+        "id": "2063018",
+        "name": "俺の素人-Z-"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-001.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-002.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-003.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-004.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/orec944/orec944jp-005.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=orec944/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -118840,6 +118822,92 @@
         "sp": true,
         "pc": true
       }
+    },
+    {
+      "productId": "d_776364",
+      "title": "お前の母ちゃん、ムカつくから調教しまくったら、どうなったと思う？",
+      "priceYen": 770,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥770",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364pl.jpg",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_776364%2F&af_id=nightidx26-990&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 156,
+      "pages": 70,
+      "releaseDate": "2026-10-25T00:00:00+09:00",
+      "genres": [
+        {
+          "id": "27",
+          "name": "辱め"
+        },
+        {
+          "id": "1014",
+          "name": "熟女"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4111",
+          "name": "寝取り・寝取られ・NTR"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "154044",
+          "name": "母親"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "25",
+          "name": "拘束"
+        },
+        {
+          "id": "1034",
+          "name": "ギャル"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        }
+      ],
+      "maker": {
+        "id": "201842",
+        "name": "すめるすらいく"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-009.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_776364/d_776364jp-010.jpg"
+      ]
     },
     {
       "productId": "b182asnw00176",
@@ -122059,66 +122127,6 @@
       "freeSample": true
     },
     {
-      "productId": "smmc457",
-      "title": "Anjyu",
-      "priceYen": 780,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥780",
-      "imageURL": "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jm.jpg",
-      "reviewCount": 0,
-      "reviewAverage": 0,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dsmmc457&af_id=nightidx26-990&ch=api",
-      "floor": "videoc",
-      "floorLabel": "素人",
-      "releaseDate": "2026-10-24T00:00:12+09:00",
-      "volumeMinutes": 43,
-      "genres": [
-        {
-          "id": "2006",
-          "name": "スレンダー"
-        },
-        {
-          "id": "8518",
-          "name": "茶髪"
-        },
-        {
-          "id": "8514",
-          "name": "色黒"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1034",
-          "name": "ギャル"
-        }
-      ],
-      "maker": {
-        "id": "46519",
-        "name": "すももちゃん"
-      },
-      "label": {
-        "id": "25725",
-        "name": "すももちゃん"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jp-001.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jp-002.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jp-003.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jp-004.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/smmc457/smmc457jp-005.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=smmc457/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "snos00471",
       "title": "仕事バリバリかと思ったら案外誰とでもヤるガバガバちゃん。 一生懸命で頑張り屋 大都心で必死に働く新卒2年目若手OLさん（24）ON/OFF密着ドキュメント 浅野こころ",
       "priceYen": 2180,
@@ -124048,63 +124056,6 @@
       }
     },
     {
-      "productId": "h_1322tocp00037",
-      "title": "わからせ種付けプレスで何度も膣射されイキ壊された純朴娘にこ",
-      "priceYen": 2750,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥2,750",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037pl.jpg",
-      "reviewCount": 0,
-      "reviewAverage": 0,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1322tocp00037&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 175,
-      "releaseDate": "2026-01-16T00:00:00+09:00",
-      "volumeMinutes": 17,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "55",
-          "name": "処女"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        }
-      ],
-      "maker": {
-        "id": "40408",
-        "name": "WORLDPG ANIMATION"
-      },
-      "series": {
-        "id": "4603035",
-        "name": "わからせ種付けプレスで何度も膣射されイキ壊された純朴娘"
-      },
-      "label": {
-        "id": "26277",
-        "name": "WORLDPG ANIMATION"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-5.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1322tocp00037/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "403ksxa54217ag01",
       "title": "淫獣女教師",
       "priceYen": 4950,
@@ -124504,6 +124455,63 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=lfs00001ai/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "h_1322tocp00037",
+      "title": "わからせ種付けプレスで何度も膣射されイキ壊された純朴娘にこ",
+      "priceYen": 2750,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥2,750",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037pl.jpg",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1322tocp00037&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 176,
+      "releaseDate": "2026-01-16T00:00:00+09:00",
+      "volumeMinutes": 17,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "55",
+          "name": "処女"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        }
+      ],
+      "maker": {
+        "id": "40408",
+        "name": "WORLDPG ANIMATION"
+      },
+      "series": {
+        "id": "4603035",
+        "name": "わからせ種付けプレスで何度も膣射されイキ壊された純朴娘"
+      },
+      "label": {
+        "id": "26277",
+        "name": "WORLDPG ANIMATION"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1322tocp00037/h_1322tocp00037jp-5.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1322tocp00037/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
@@ -125187,79 +125195,6 @@
       }
     },
     {
-      "productId": "h_1379jdxa57816",
-      "title": "メイド教育。-没落貴族 瑠璃川椿- THE ANIMATION 第2巻",
-      "priceYen": 4180,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥4,180〜",
-      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816pl.jpg",
-      "reviewCount": 0,
-      "reviewAverage": 0,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57816&af_id=nightidx26-990&ch=api",
-      "floor": "anime",
-      "floorLabel": "アニメ",
-      "apiRank": 181,
-      "releaseDate": "2026-02-20T00:00:00+09:00",
-      "volumeMinutes": 22,
-      "genres": [
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "38",
-          "name": "クンニ"
-        },
-        {
-          "id": "28",
-          "name": "羞恥"
-        },
-        {
-          "id": "27",
-          "name": "辱め"
-        },
-        {
-          "id": "1008",
-          "name": "メイド"
-        }
-      ],
-      "maker": {
-        "id": "45018",
-        "name": "ピンクパイナップル"
-      },
-      "series": {
-        "id": "4341163",
-        "name": "メイド教育。"
-      },
-      "label": {
-        "id": "102",
-        "name": "Pink Pineapple"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-1.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-2.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-3.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-4.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-5.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-6.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-7.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-8.jpg",
-        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-9.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57816/size=720_480/affi_id=nightidx26-990/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "mkmp00768",
       "title": "【完全主観】圧倒的な美貌で容赦のない言葉責めを受け続けながらイジめ抜かれるドS叱責メイド 尾崎えりか",
       "priceYen": 2480,
@@ -125525,6 +125460,79 @@
       "sampleMovie": true,
       "sampleMovieEmbed": {
         "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=5642rehodv20544/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
+    },
+    {
+      "productId": "h_1379jdxa57816",
+      "title": "メイド教育。-没落貴族 瑠璃川椿- THE ANIMATION 第2巻",
+      "priceYen": 4180,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥4,180〜",
+      "imageURL": "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816pl.jpg",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fanime%2Fcontent%2F%3Fid%3Dh_1379jdxa57816&af_id=nightidx26-990&ch=api",
+      "floor": "anime",
+      "floorLabel": "アニメ",
+      "apiRank": 182,
+      "releaseDate": "2026-02-20T00:00:00+09:00",
+      "volumeMinutes": 22,
+      "genres": [
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "38",
+          "name": "クンニ"
+        },
+        {
+          "id": "28",
+          "name": "羞恥"
+        },
+        {
+          "id": "27",
+          "name": "辱め"
+        },
+        {
+          "id": "1008",
+          "name": "メイド"
+        }
+      ],
+      "maker": {
+        "id": "45018",
+        "name": "ピンクパイナップル"
+      },
+      "series": {
+        "id": "4341163",
+        "name": "メイド教育。"
+      },
+      "label": {
+        "id": "102",
+        "name": "Pink Pineapple"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/h_1379jdxa57816/h_1379jdxa57816jp-9.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=h_1379jdxa57816/size=720_480/affi_id=nightidx26-990/",
         "w": 720,
         "h": 480,
         "sp": true,
