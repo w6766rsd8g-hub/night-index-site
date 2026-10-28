@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:10:26.018Z",
+  "updatedAt": "2026-10-28T12:41:46.295Z",
   "items": [
     {
       "productId": "d_799208",
@@ -125423,7 +125423,15 @@
         "https://pics.dmm.co.jp/digital/video/royd00380/royd00380jp-10.jpg",
         "https://pics.dmm.co.jp/digital/video/royd00380/royd00380jp-11.jpg",
         "https://pics.dmm.co.jp/digital/video/royd00380/royd00380jp-12.jpg"
-      ]
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=royd00380/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "mdbk00438",
@@ -125625,7 +125633,7 @@
       "actresses": [
         "七海那美"
       ],
-      "volumeMinutes": 120,
+      "volumeMinutes": 116,
       "genres": [
         {
           "id": "6533",
@@ -126010,7 +126018,7 @@
       "actresses": [
         "鳳みゆ"
       ],
-      "volumeMinutes": 120,
+      "volumeMinutes": 125,
       "genres": [
         {
           "id": "6533",
@@ -126452,7 +126460,7 @@
       "actresses": [
         "竹内有紀"
       ],
-      "volumeMinutes": 110,
+      "volumeMinutes": 108,
       "genres": [
         {
           "id": "6533",
