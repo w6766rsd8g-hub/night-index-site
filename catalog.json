@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:32:45.395Z",
+  "updatedAt": "2026-10-28T21:04:09.697Z",
   "items": [
     {
       "productId": "d_799208",
@@ -26909,36 +26909,36 @@
       "volumeMinutes": 174,
       "genres": [
         {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "6548",
-          "name": "独占配信"
-        },
-        {
-          "id": "1031",
-          "name": "痴女"
-        },
-        {
-          "id": "5057",
-          "name": "ローション・オイル"
-        },
-        {
-          "id": "4025",
-          "name": "単体作品"
-        },
-        {
-          "id": "5004",
-          "name": "手コキ"
+          "id": "5001",
+          "name": "中出し"
         },
         {
           "id": "1033",
           "name": "お姉さん"
         },
         {
-          "id": "5001",
-          "name": "中出し"
+          "id": "5004",
+          "name": "手コキ"
+        },
+        {
+          "id": "4025",
+          "name": "単体作品"
+        },
+        {
+          "id": "5057",
+          "name": "ローション・オイル"
+        },
+        {
+          "id": "1031",
+          "name": "痴女"
+        },
+        {
+          "id": "6548",
+          "name": "独占配信"
+        },
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
         }
       ],
       "maker": {
@@ -42657,36 +42657,36 @@
       "volumeMinutes": 876,
       "genres": [
         {
-          "id": "6012",
-          "name": "4時間以上作品"
-        },
-        {
-          "id": "6925",
-          "name": "ハイクオリティVR"
-        },
-        {
-          "id": "6548",
-          "name": "独占配信"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4059",
-          "name": "キス・接吻"
-        },
-        {
-          "id": "4106",
-          "name": "騎乗位"
+          "id": "6793",
+          "name": "VR専用"
         },
         {
           "id": "6003",
           "name": "ベスト・総集編"
         },
         {
-          "id": "6793",
-          "name": "VR専用"
+          "id": "4106",
+          "name": "騎乗位"
+        },
+        {
+          "id": "4059",
+          "name": "キス・接吻"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "6548",
+          "name": "独占配信"
+        },
+        {
+          "id": "6925",
+          "name": "ハイクオリティVR"
+        },
+        {
+          "id": "6012",
+          "name": "4時間以上作品"
         }
       ],
       "maker": {
@@ -86120,7 +86120,15 @@
         "https://pics.dmm.co.jp/digital/video/chib00007/chib00007jp-10.jpg",
         "https://pics.dmm.co.jp/digital/video/chib00007/chib00007jp-11.jpg",
         "https://pics.dmm.co.jp/digital/video/chib00007/chib00007jp-12.jpg"
-      ]
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=chib007/size=720_480/affi_id=nightidx26-990/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "hjbb00183",
