@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:01:43.806Z",
+  "updatedAt": "2026-10-30T07:33:03.353Z",
   "items": [
     {
       "productId": "d_799208",
@@ -105617,7 +105617,7 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2026-11-21T00:00:00+09:00",
-      "volumeMinutes": 112,
+      "volumeMinutes": 113,
       "genres": [
         {
           "id": "6548",
