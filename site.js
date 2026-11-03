@@ -1,11 +1,13 @@
 // Functional 18+ gate; appearance and approved page layouts are unchanged.
-// Self-attestation is NOT identity/age verification. No analytics, network or cookies added.
+// Self-attestation is NOT identity/age verification. No new network, cookies or identifiers: it only sends anonymous
+// age_gate_view/age_gate_pass/age_gate_leave events through the page's existing GA4 tag when present (gate funnel, GROKBOT 2026-11-03).
 (()=>{
  let gate=document.getElementById('ageGate');
  const existing=gate!==null;
  const page=new URL(location.href).pathname;
  if(!existing&&page!=='/guides.html')return; // Privacy and About remain readable for transparency.
  const consentKey='night_index_age_ok';
+ const gev=n=>{try{if(typeof window.gtag==='function')window.gtag('event',n,{page_type:(page.split('/').filter(Boolean)[0]||'home').replace(/\.html$/,'')})}catch{}};
  let approved=false;
  try{approved=localStorage.getItem(consentKey)==='1'}catch{}
  if(!gate){
@@ -25,13 +27,14 @@
   backdrop.forEach(x=>{x.removeAttribute('inert');x.removeAttribute('aria-hidden')});
   gate.classList.add('hidden');
  };
- if(approved)open();else hold();
+ if(approved)open();else{hold();gev('age_gate_view')}
  enter?.addEventListener('click',()=>{
   try{localStorage.setItem(consentKey,'1')}catch{}
-  open();document.querySelector('main h1')?.setAttribute('tabindex','-1');
+  gev('age_gate_pass');open();document.querySelector('main h1')?.setAttribute('tabindex','-1');
   document.querySelector('main h1')?.focus()
  });
  leave?.addEventListener('click',()=>{
+  gev('age_gate_leave');
   const main=document.createElement('main');main.className='blocked';
   main.innerHTML='<div><h1 tabindex="-1">閲覧できません</h1><p>このサイトは18歳以上の方のみご利用いただけます。</p></div>';
   document.body.replaceChildren(main);main.querySelector('h1').focus()
