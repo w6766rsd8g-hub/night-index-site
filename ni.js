@@ -38,7 +38,7 @@ const sc=$('.sticky-cta'),mc=$('.pbox .cta');if(sc&&mc&&'IntersectionObserver'in
 (()=>{const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
 const ga=(n,o)=>{try{if(typeof window.gtag==='function')window.gtag('event',n,o||{})}catch(e){}};
 const P=location.pathname;
-const bk=P==='/'?'home':/^\/ranking\/(ending|discount)/.test(P)?(P.includes('ending')?'sale':'ranking'):P.startsWith('/ranking/')?'ranking':P.startsWith('/taste')?'taste':P==='/catalog.html'?'search':'';
+const bk=P==='/'?'home':/^\/ranking\/(ending|discount)/.test(P)?(P.includes('ending')?'sale':'ranking'):P.startsWith('/ranking/')?'ranking':P.startsWith('/taste')?'taste':(P.startsWith('/goods')||P.startsWith('/anshin'))?'goods':P==='/catalog.html'?'search':'';
 $$('.bnav a').forEach(a=>{if(a.dataset.bn===bk)a.classList.add('on');a.addEventListener('click',()=>ga('bnav_click',{target:a.dataset.bn}))});
 let IDX=null,so=null,tm=0;const norm=s=>String(s||'').toLowerCase().normalize('NFKC');
 const load=()=>IDX||(IDX=fetch('/data/search.json?v='+(document.documentElement.dataset.sv||''),{cache:'force-cache'}).then(r=>r.json()).then(j=>{j.it.forEach(r=>r.k=norm(r[0]+' '+r[1]+' '+r[2]));return j}).catch(()=>null));
