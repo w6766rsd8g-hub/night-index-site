@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T14:39:53.040Z",
+  "updatedAt": "2026-11-03T15:11:26.491Z",
   "items": [
     {
       "productId": "d_799208",
@@ -710,8 +710,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 203,
       "releaseDate": "2025-09-13T00:00:59+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ブランドストア30％OFF",
       "discountPct": 30,
       "actresses": [
         "北岡果林"
@@ -795,8 +793,6 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-10-14T00:00:42+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "小笠原菜乃"
@@ -871,8 +867,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 36,
       "releaseDate": "2025-08-08T00:00:59+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "日替わりセール☆",
       "discountPct": 30,
       "actresses": [
         "瀬戸環奈"
@@ -1565,6 +1559,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-06-26T00:00:43+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "SODグループ30％OFF第2弾",
       "discountPct": 30,
       "volumeMinutes": 161,
       "genres": [
@@ -2181,6 +2177,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2024-08-18T10:00:30+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "新井リマ"
@@ -3459,6 +3457,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-12T10:00:00+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "瀬田一花"
@@ -4823,6 +4823,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2026-05-09T00:00:00+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "actresses": [
         "逢沢みゆ"
@@ -5510,6 +5512,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-07-29T10:00:17+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "つぼみ"
@@ -6352,6 +6356,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2026-02-19T00:00:49+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "SODグループ30％OFF第2弾",
       "discountPct": 30,
       "actresses": [
         "浜辺やよい"
@@ -6700,6 +6706,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2023-07-28T10:00:43+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "天月あず"
@@ -7181,6 +7189,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2023-08-04T10:00:52+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "さくらわかな"
@@ -12590,8 +12600,6 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-06-10T00:00:56+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "綾瀬天"
@@ -14173,8 +14181,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 324,
       "releaseDate": "2026-07-07T00:00:44+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "一宮るい"
@@ -15335,6 +15341,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2024-08-23T10:00:28+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "小花のん"
@@ -17194,6 +17202,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2016-08-14T10:00:56+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "RION"
@@ -17606,6 +17616,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2019-08-10T10:00:35+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "桃乃木かな"
@@ -20061,8 +20073,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 332,
       "releaseDate": "2026-09-26T00:00:57+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ブランドストア30％OFF",
       "discountPct": 30,
       "actresses": [
         "弥生みづき"
@@ -20570,8 +20580,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 229,
       "releaseDate": "2026-05-12T00:00:53+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "青空ひかり"
@@ -22264,6 +22272,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2020-07-25T10:00:30+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "actresses": [
         "笹倉杏",
@@ -26039,6 +26049,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2015-10-08T10:00:49+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "volumeMinutes": 121,
       "genres": [
@@ -26521,6 +26533,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2021-08-20T10:00:23+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "初川みなみ"
@@ -34619,6 +34633,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2023-08-15T10:00:40+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "actresses": [
         "東條なつ",
@@ -39676,8 +39692,6 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-02-14T00:00:00+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ディープス他30％OFF",
       "discountPct": 30,
       "actresses": [
         "波多野結衣"
@@ -40196,8 +40210,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 51,
       "releaseDate": "2025-09-02T00:00:39+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "彩月七緒"
@@ -41227,8 +41239,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 53,
       "releaseDate": "2026-01-20T00:00:40+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "MINAMO"
@@ -41888,6 +41898,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2023-08-04T10:00:43+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "つばさ舞"
@@ -45756,6 +45768,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2021-07-30T10:00:37+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "白桃はな",
@@ -47390,6 +47404,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2020-08-22T10:00:34+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "松本いちか"
@@ -48951,6 +48967,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2021-07-30T10:00:55+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "和知すばる"
@@ -49414,8 +49432,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 363,
       "releaseDate": "2026-07-07T00:00:47+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "MINAMO"
@@ -50113,8 +50129,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 258,
       "releaseDate": "2025-10-17T00:00:00+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ディープス他30％OFF",
       "discountPct": 30,
       "volumeMinutes": 614,
       "genres": [
@@ -52159,8 +52173,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 362,
       "releaseDate": "2026-06-12T00:00:00+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ディープス他30％OFF",
       "discountPct": 29,
       "volumeMinutes": 291,
       "genres": [
@@ -52496,6 +52508,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2023-08-25T10:00:45+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "田中ねね"
@@ -54152,8 +54166,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 65,
       "releaseDate": "2026-07-14T00:00:43+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "神木麗"
@@ -58296,8 +58308,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 273,
       "releaseDate": "2026-07-07T00:00:43+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "松永あかり"
@@ -59469,6 +59479,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-07-29T10:00:53+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "綾瀬こころ"
@@ -60286,6 +60298,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-19T10:00:41+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "池田マリナ"
@@ -60546,6 +60560,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-12T10:00:00+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "百瀬あすか",
@@ -63377,6 +63393,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-12T10:00:13+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "小花のん"
@@ -64003,6 +64021,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2020-08-27T10:00:57+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "花音うらら",
@@ -65854,8 +65874,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 378,
       "releaseDate": "2026-07-03T00:00:00+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ディープス他30％OFF",
       "discountPct": 29,
       "volumeMinutes": 222,
       "genres": [
@@ -68881,6 +68899,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2020-08-22T10:00:39+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "松本いちか"
@@ -71697,6 +71717,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2019-08-10T10:00:58+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "吉根ゆりあ",
@@ -72312,8 +72334,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 83,
       "releaseDate": "2026-07-07T00:00:42+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 29,
       "actresses": [
         "南あいり"
@@ -74016,8 +74036,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 383,
       "releaseDate": "2026-09-26T00:00:59+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ブランドストア30％OFF",
       "discountPct": 30,
       "actresses": [
         "柏木こなつ"
@@ -74292,6 +74310,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2018-04-12T10:00:34+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "DOC他30％OFF",
       "discountPct": 30,
       "volumeMinutes": 244,
       "genres": [
@@ -75248,6 +75268,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2017-08-25T10:00:57+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "DOC他30％OFF",
       "discountPct": 30,
       "volumeMinutes": 241,
       "genres": [
@@ -76467,6 +76489,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-10-11T00:00:25+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "volumeMinutes": 123,
       "genres": [
@@ -78297,8 +78321,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 389,
       "releaseDate": "2026-07-14T00:00:42+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "小笠原菜乃"
@@ -80617,6 +80639,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-19T10:00:00+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "佐田茉莉子"
@@ -82721,8 +82745,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 393,
       "releaseDate": "2026-07-09T00:00:00+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "松永あかり"
@@ -83859,6 +83881,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2021-08-06T10:00:38+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "西宮ゆめ"
@@ -85871,6 +85895,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2018-08-19T10:00:54+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "神宮寺ナオ"
@@ -87617,8 +87643,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 296,
       "releaseDate": "2026-07-04T00:00:53+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "ブランドストア30％OFF",
       "discountPct": 30,
       "volumeMinutes": 199,
       "genres": [
@@ -88093,8 +88117,6 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2025-06-17T00:00:51+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "唯井まひろ"
@@ -91357,6 +91379,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2017-08-17T10:00:53+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "月元あや華"
@@ -95132,8 +95156,6 @@
       "floorLabel": "ビデオ",
       "apiRank": 396,
       "releaseDate": "2026-05-12T00:00:51+09:00",
-      "campaignEnd": "2026-11-03T23:59:59+09:00",
-      "campaignTitle": "SODグループ30％OFF第1弾",
       "discountPct": 30,
       "actresses": [
         "小笠原菜乃"
@@ -101481,6 +101503,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2017-10-22T10:00:58+09:00",
+      "campaignEnd": "2026-11-10T23:59:59+09:00",
+      "campaignTitle": "unfinished他30％OFF",
       "discountPct": 30,
       "actresses": [
         "春菜はな"
@@ -101816,6 +101840,8 @@
       "floor": "videoa",
       "floorLabel": "ビデオ",
       "releaseDate": "2022-08-05T10:00:45+09:00",
+      "campaignEnd": "2026-11-04T23:59:59+09:00",
+      "campaignTitle": "日替わりセール♪",
       "discountPct": 30,
       "actresses": [
         "小倉七海"
