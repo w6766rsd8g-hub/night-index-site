@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T22:12:19.050Z",
+  "updatedAt": "2026-11-04T22:43:51.843Z",
   "items": [
     {
       "productId": "d_799208",
@@ -68794,7 +68794,15 @@
         "https://pics.dmm.co.jp/digital/video/ktkc00209/ktkc00209jp-10.jpg",
         "https://pics.dmm.co.jp/digital/video/ktkc00209/ktkc00209jp-11.jpg",
         "https://pics.dmm.co.jp/digital/video/ktkc00209/ktkc00209jp-12.jpg"
-      ]
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=ktkc00209/size=720_480/affi_id=nightidx26-001/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "d_757110",
@@ -118397,6 +118405,14 @@
       "label": {
         "id": "7383",
         "name": "EDEN（ルビー）"
+      },
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=aed00268/size=720_480/affi_id=nightidx26-001/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
       }
     },
     {
