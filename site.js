@@ -16,6 +16,13 @@
   gate.innerHTML='<div class="gate-card"><p class="eyebrow">AGE CHECK</p><h1 id="ageGateTitle">18歳以上ですか？</h1><p>このサイトは18歳以上の方を対象とした成人向けサービスの情報・比較サイトです。</p><div class="gate-actions"><button id="enterBtn" type="button">18歳以上です</button><button id="leaveBtn" type="button" class="secondary">18歳未満です</button></div></div>';
   document.body.prepend(gate);
  }
+
+ // GROKBOT 2026-11-05 daily growth: tell search visitors, before attestation, what kind of page waits behind the gate
+ // (neutral category label only: no work titles, images or explicit wording are shown before the 18+ check).
+ try{const seg=page.split('/').filter(Boolean)[0]||'';const id=(page.split('/').pop()||'').replace(/\.html$/,'');
+  const label=seg==='item'?(/^d_/.test(id)?'同人作品の詳細ページ（価格・ページ数・サンプル画像）':'作品の詳細ページ（価格・セール期限・サンプル）'):({series:'シリーズの作品一覧',actress:'女優別の作品一覧',maker:'メーカー別の作品一覧',genre:'ジャンル別の作品一覧',ranking:'ランキング',sale:'セール作品の詳細ページ',doujin:'同人誌の作品一覧',comic:'成人コミックの作品一覧'})[seg]||'';
+  const card=gate.querySelector('.gate-card'),acts=gate.querySelector('.gate-actions');
+  if(label&&card&&acts&&!gate.querySelector('.gate-dest')){const p=document.createElement('p');p.className='gate-dest';p.style.cssText='font-size:.85em;opacity:.8;margin:.4em 0 .8em';p.textContent='この先：'+label+'／FANZA公式データ・広告（PR）を含みます';card.insertBefore(p,acts)}}catch{}
  const h=gate.querySelector('h1');if(h&&!h.id)h.id='ageGateTitle';gate.setAttribute('aria-labelledby','ageGateTitle');
  const enter=gate.querySelector('#enterBtn'),leave=gate.querySelector('#leaveBtn');
  const backdrop=[...document.body.children].filter(x=>x!==gate&&x.tagName!=='SCRIPT');
