@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:52:56.071Z",
+  "updatedAt": "2026-11-05T12:24:24.013Z",
   "items": [
     {
       "productId": "d_799208",
@@ -108870,7 +108870,21 @@
       "label": {
         "id": "24650",
         "name": "IMAGINATION"
-      }
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-10.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-11.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00270/dftr00270jp-12.jpg"
+      ]
     },
     {
       "productId": "d_842780",
@@ -109488,7 +109502,19 @@
       "label": {
         "id": "24650",
         "name": "IMAGINATION"
-      }
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-1.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-2.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-3.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-4.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-5.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-6.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-7.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-8.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-9.jpg",
+        "https://pics.dmm.co.jp/digital/video/dftr00269/dftr00269jp-10.jpg"
+      ]
     },
     {
       "productId": "mcsf318",
