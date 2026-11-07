@@ -32,7 +32,7 @@ const gis=$$('.gi');if(gis.length){let i=0,lb;const show=()=>{$('img',lb).src=gi
 gis.forEach((a,k)=>a.addEventListener('click',e=>{e.preventDefault();i=k;if(!lb){lb=document.createElement('div');lb.className='lb';lb.innerHTML='<img alt="サンプル画像" referrerpolicy="no-referrer"><div class="lb-n"><button data-p>‹ 前</button><span class="lb-c"></span><button data-n>次 ›</button><button data-x>閉じる</button></div>';document.body.appendChild(lb);
 $('[data-p]',lb).onclick=()=>{i=(i-1+gis.length)%gis.length;show()};$('[data-n]',lb).onclick=()=>{i=(i+1)%gis.length;show()};$('[data-x]',lb).onclick=()=>lb.remove();lb.addEventListener('click',e=>{if(e.target===lb)lb.remove()});document.addEventListener('keydown',e=>{if(!lb.isConnected)return;if(e.key==='Escape')lb.remove();if(e.key==='ArrowRight')$('[data-n]',lb).click();if(e.key==='ArrowLeft')$('[data-p]',lb).click()})}
 document.body.appendChild(lb);show()}))}
-const sc=$('.sticky-cta'),mc=$('.pbox .cta');if(sc&&mc&&'IntersectionObserver'in window)new IntersectionObserver(([e])=>sc.classList.toggle('on',!e.isIntersecting&&e.boundingClientRect.top<0)).observe(mc);
+const sc=$('.sticky-cta'),mc=$('.pbox .cta');if(sc&&mc&&'IntersectionObserver'in window)new IntersectionObserver(([e])=>sc.classList.toggle('on',!e.isIntersecting)).observe(mc);
 })();
 
 (()=>{const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
