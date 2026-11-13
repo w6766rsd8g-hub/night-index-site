@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:42:34.741Z",
+  "updatedAt": "2026-11-13T06:15:00.415Z",
   "items": [
     {
       "productId": "d_837979",
@@ -8,7 +8,7 @@
       "priceKind": "purchase",
       "priceLabel": "購入 ¥3,300（セール中 ¥1,980）",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_837979/d_837979pl.jpg",
-      "reviewCount": 1035,
+      "reviewCount": 1047,
       "reviewAverage": 4.63,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_837979%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
@@ -273,8 +273,8 @@
       "priceKind": "purchase",
       "priceLabel": "購入 ¥3,300（セール中 ¥1,650）",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_836995/d_836995pl.jpg",
-      "reviewCount": 146,
-      "reviewAverage": 4.74,
+      "reviewCount": 147,
+      "reviewAverage": 4.73,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_836995%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
       "floorLabel": "同人",
@@ -442,8 +442,8 @@
       "priceKind": "purchase",
       "priceLabel": "購入 ¥3,850（セール中 ¥1,540）",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_831209/d_831209pl.jpg",
-      "reviewCount": 164,
-      "reviewAverage": 4.43,
+      "reviewCount": 169,
+      "reviewAverage": 4.41,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_831209%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
       "floorLabel": "同人",
@@ -4494,98 +4494,14 @@
       }
     },
     {
-      "productId": "hrm007",
-      "title": "K.S",
-      "priceYen": 1280,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥1,280〜（セール中 ¥896〜）",
-      "imageURL": "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jm.jpg",
-      "reviewCount": 4,
-      "reviewAverage": 5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dhrm007&af_id=nightidx26-001&ch=api",
-      "floor": "videoc",
-      "floorLabel": "素人",
-      "apiRank": 113,
-      "releaseDate": "2026-10-16T00:00:21+09:00",
-      "campaignEnd": "2026-11-17T23:59:59+09:00",
-      "campaignTitle": "素人ホイホイtwintower他30％OFF",
-      "discountPct": 30,
-      "volumeMinutes": 84,
-      "genres": [
-        {
-          "id": "79015",
-          "name": "4K"
-        },
-        {
-          "id": "6533",
-          "name": "ハイビジョン"
-        },
-        {
-          "id": "4023",
-          "name": "ドキュメンタリー"
-        },
-        {
-          "id": "6002",
-          "name": "ハメ撮り"
-        },
-        {
-          "id": "5017",
-          "name": "おもちゃ"
-        },
-        {
-          "id": "6967",
-          "name": "M女"
-        },
-        {
-          "id": "2007",
-          "name": "ぽっちゃり"
-        },
-        {
-          "id": "6548",
-          "name": "独占配信"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "1027",
-          "name": "美少女"
-        }
-      ],
-      "maker": {
-        "id": "313977",
-        "name": "素人ホイホイルーム"
-      },
-      "label": {
-        "id": "2068262",
-        "name": "素人ホイホイルーム"
-      },
-      "sampleImages": [
-        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-001.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-002.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-003.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-004.jpg",
-        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-005.jpg"
-      ],
-      "sampleMovie": true,
-      "sampleMovieEmbed": {
-        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=hrm007/size=720_480/affi_id=nightidx26-001/",
-        "w": 720,
-        "h": 480,
-        "sp": true,
-        "pc": true
-      }
-    },
-    {
       "productId": "d_833982",
       "title": "俺だけが動ける街",
       "priceYen": 3300,
       "priceKind": "purchase",
       "priceLabel": "購入 ¥3,300（セール中 ¥2,310）",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_833982/d_833982pl.jpg",
-      "reviewCount": 217,
-      "reviewAverage": 4.43,
+      "reviewCount": 218,
+      "reviewAverage": 4.44,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_833982%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
       "floorLabel": "同人",
@@ -4671,6 +4587,90 @@
         "https://doujin-assets.dmm.co.jp/digital/game/d_833982/d_833982jp-009.jpg",
         "https://doujin-assets.dmm.co.jp/digital/game/d_833982/d_833982jp-010.jpg"
       ]
+    },
+    {
+      "productId": "hrm007",
+      "title": "K.S",
+      "priceYen": 1280,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,280〜（セール中 ¥896〜）",
+      "imageURL": "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jm.jpg",
+      "reviewCount": 4,
+      "reviewAverage": 5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Famateur%2Fcontent%2F%3Fid%3Dhrm007&af_id=nightidx26-001&ch=api",
+      "floor": "videoc",
+      "floorLabel": "素人",
+      "apiRank": 113,
+      "releaseDate": "2026-10-16T00:00:21+09:00",
+      "campaignEnd": "2026-11-17T23:59:59+09:00",
+      "campaignTitle": "素人ホイホイtwintower他30％OFF",
+      "discountPct": 30,
+      "volumeMinutes": 84,
+      "genres": [
+        {
+          "id": "79015",
+          "name": "4K"
+        },
+        {
+          "id": "6533",
+          "name": "ハイビジョン"
+        },
+        {
+          "id": "4023",
+          "name": "ドキュメンタリー"
+        },
+        {
+          "id": "6002",
+          "name": "ハメ撮り"
+        },
+        {
+          "id": "5017",
+          "name": "おもちゃ"
+        },
+        {
+          "id": "6967",
+          "name": "M女"
+        },
+        {
+          "id": "2007",
+          "name": "ぽっちゃり"
+        },
+        {
+          "id": "6548",
+          "name": "独占配信"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "1027",
+          "name": "美少女"
+        }
+      ],
+      "maker": {
+        "id": "313977",
+        "name": "素人ホイホイルーム"
+      },
+      "label": {
+        "id": "2068262",
+        "name": "素人ホイホイルーム"
+      },
+      "sampleImages": [
+        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-001.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-002.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-003.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-004.jpg",
+        "https://pics.dmm.co.jp/digital/amateur/hrm007/hrm007jp-005.jpg"
+      ],
+      "sampleMovie": true,
+      "sampleMovieEmbed": {
+        "url": "https://www.dmm.co.jp/litevideo/-/part/=/cid=hrm007/size=720_480/affi_id=nightidx26-001/",
+        "w": 720,
+        "h": 480,
+        "sp": true,
+        "pc": true
+      }
     },
     {
       "productId": "sqte00614",
@@ -7337,6 +7337,87 @@
       ]
     },
     {
+      "productId": "d_279250",
+      "title": "おつきみ工房 二次創作まとめ本",
+      "priceYen": 6270,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥6,270（セール中 ¥3,135）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250pl.jpg",
+      "reviewCount": 8,
+      "reviewAverage": 4.13,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_279250%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "pages": 486,
+      "releaseDate": "2023-07-12T00:00:00+09:00",
+      "campaignTitle": "50%OFF",
+      "discountPct": 50,
+      "genres": [
+        {
+          "id": "27",
+          "name": "辱め"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5003",
+          "name": "ぶっかけ"
+        },
+        {
+          "id": "5005",
+          "name": "アナル"
+        },
+        {
+          "id": "5009",
+          "name": "ごっくん"
+        },
+        {
+          "id": "5019",
+          "name": "パイズリ"
+        },
+        {
+          "id": "5022",
+          "name": "3P・4P"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        }
+      ],
+      "maker": {
+        "id": "77477",
+        "name": "おつきみ工房"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-004.jpg"
+      ]
+    },
+    {
       "productId": "d_824361",
       "title": "クズ賢者の日記 Complete",
       "priceYen": 1980,
@@ -7938,87 +8019,6 @@
         "https://doujin-assets.dmm.co.jp/digital/game/d_285088/d_285088jp-005.jpg",
         "https://doujin-assets.dmm.co.jp/digital/game/d_285088/d_285088jp-006.jpg",
         "https://doujin-assets.dmm.co.jp/digital/game/d_285088/d_285088jp-007.jpg"
-      ]
-    },
-    {
-      "productId": "d_279250",
-      "title": "おつきみ工房 二次創作まとめ本",
-      "priceYen": 6270,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥6,270（セール中 ¥3,135）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250pl.jpg",
-      "reviewCount": 8,
-      "reviewAverage": 4.13,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_279250%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "pages": 486,
-      "releaseDate": "2023-07-12T00:00:00+09:00",
-      "campaignTitle": "50%OFF",
-      "discountPct": 50,
-      "genres": [
-        {
-          "id": "27",
-          "name": "辱め"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5003",
-          "name": "ぶっかけ"
-        },
-        {
-          "id": "5005",
-          "name": "アナル"
-        },
-        {
-          "id": "5009",
-          "name": "ごっくん"
-        },
-        {
-          "id": "5019",
-          "name": "パイズリ"
-        },
-        {
-          "id": "5022",
-          "name": "3P・4P"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        }
-      ],
-      "maker": {
-        "id": "77477",
-        "name": "おつきみ工房"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_279250/d_279250jp-004.jpg"
       ]
     },
     {
@@ -14253,91 +14253,6 @@
       }
     },
     {
-      "productId": "d_549681",
-      "title": "兄貴の彼女になる女の子になっちゃった弟 総集編完全版2",
-      "priceYen": 5500,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥5,500",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681pl.jpg",
-      "reviewCount": 24,
-      "reviewAverage": 4.83,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_549681%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "pages": 1289,
-      "releaseDate": "2025-05-09T00:00:00+09:00",
-      "genres": [
-        {
-          "id": "95",
-          "name": "性転換・女体化"
-        },
-        {
-          "id": "4020",
-          "name": "野外・露出"
-        },
-        {
-          "id": "4031",
-          "name": "コスプレ"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5008",
-          "name": "オナニー"
-        },
-        {
-          "id": "6003",
-          "name": "ベスト・総集編"
-        },
-        {
-          "id": "153031",
-          "name": "萌え"
-        },
-        {
-          "id": "156003",
-          "name": "断面図あり"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "37",
-          "name": "デモ・体験版あり"
-        }
-      ],
-      "maker": {
-        "id": "218939",
-        "name": "ツキギ"
-      },
-      "series": {
-        "id": "3017215",
-        "name": "兄貴の彼女になる女の子になっちゃった弟"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-009.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-010.jpg"
-      ]
-    },
-    {
       "productId": "agav00122",
       "title": "顔で抜く！！顔面ドアップPOV 関西弁でイチャサド射精管理してくる年上彼女との同棲生活 流川莉央",
       "priceYen": 980,
@@ -15125,6 +15040,91 @@
         "sp": true,
         "pc": true
       }
+    },
+    {
+      "productId": "d_549681",
+      "title": "兄貴の彼女になる女の子になっちゃった弟 総集編完全版2",
+      "priceYen": 5500,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥5,500",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681pl.jpg",
+      "reviewCount": 24,
+      "reviewAverage": 4.83,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_549681%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "pages": 1289,
+      "releaseDate": "2025-05-09T00:00:00+09:00",
+      "genres": [
+        {
+          "id": "95",
+          "name": "性転換・女体化"
+        },
+        {
+          "id": "4020",
+          "name": "野外・露出"
+        },
+        {
+          "id": "4031",
+          "name": "コスプレ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5008",
+          "name": "オナニー"
+        },
+        {
+          "id": "6003",
+          "name": "ベスト・総集編"
+        },
+        {
+          "id": "153031",
+          "name": "萌え"
+        },
+        {
+          "id": "156003",
+          "name": "断面図あり"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "37",
+          "name": "デモ・体験版あり"
+        }
+      ],
+      "maker": {
+        "id": "218939",
+        "name": "ツキギ"
+      },
+      "series": {
+        "id": "3017215",
+        "name": "兄貴の彼女になる女の子になっちゃった弟"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-009.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_549681/d_549681jp-010.jpg"
+      ]
     },
     {
       "productId": "1sods00086",
@@ -27679,82 +27679,6 @@
       }
     },
     {
-      "productId": "d_836456",
-      "title": "SPIRAL",
-      "priceYen": 2310,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥2,310（セール中 ¥1,155）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456pl.jpg",
-      "reviewCount": 6,
-      "reviewAverage": 5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_836456%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 47,
-      "pages": 98,
-      "releaseDate": "2026-11-02T00:00:00+09:00",
-      "campaignTitle": "50%OFF",
-      "discountPct": 50,
-      "genres": [
-        {
-          "id": "1008",
-          "name": "メイド"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4031",
-          "name": "コスプレ"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5003",
-          "name": "ぶっかけ"
-        },
-        {
-          "id": "5019",
-          "name": "パイズリ"
-        },
-        {
-          "id": "5023",
-          "name": "顔射"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160146",
-          "name": "快楽堕ち"
-        }
-      ],
-      "maker": {
-        "id": "238335",
-        "name": "laliberte"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-006.jpg"
-      ]
-    },
-    {
       "productId": "mdon00061",
       "title": "配信限定 マドンナ専属女優の『リアル』解禁。 MADOOOON！！！！ 市来まひろ ハメ撮り",
       "priceYen": 980,
@@ -31440,6 +31364,82 @@
       }
     },
     {
+      "productId": "d_836456",
+      "title": "SPIRAL",
+      "priceYen": 2310,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥2,310（セール中 ¥1,155）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456pl.jpg",
+      "reviewCount": 7,
+      "reviewAverage": 4.71,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_836456%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 47,
+      "pages": 98,
+      "releaseDate": "2026-11-02T00:00:00+09:00",
+      "campaignTitle": "50%OFF",
+      "discountPct": 50,
+      "genres": [
+        {
+          "id": "1008",
+          "name": "メイド"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4031",
+          "name": "コスプレ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5003",
+          "name": "ぶっかけ"
+        },
+        {
+          "id": "5019",
+          "name": "パイズリ"
+        },
+        {
+          "id": "5023",
+          "name": "顔射"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160146",
+          "name": "快楽堕ち"
+        }
+      ],
+      "maker": {
+        "id": "238335",
+        "name": "laliberte"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_836456/d_836456jp-006.jpg"
+      ]
+    },
+    {
       "productId": "13dsvr02032",
       "title": "【VR】【8K】超高級下着メーカーの女社長（絶倫）は、ランジェリーをウブ社員の僕（早漏）に見せつけて焦らしセクハラの反応を楽しんでいます。 釈アリス",
       "priceYen": 1180,
@@ -33501,6 +33501,97 @@
       }
     },
     {
+      "productId": "d_845222",
+      "title": "会員制格闘クラブ ―崩して剥いで、寝技から本番まで。師範4人・動画1，750本―（実写系）",
+      "priceYen": 3630,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥3,630（セール中 ¥1,815）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222pl.jpg",
+      "reviewCount": 87,
+      "reviewAverage": 4.55,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_845222%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 58,
+      "releaseDate": "2026-11-06T00:00:00+09:00",
+      "campaignTitle": "50%OFF",
+      "discountPct": 50,
+      "genres": [
+        {
+          "id": "13",
+          "name": "動画・アニメーション"
+        },
+        {
+          "id": "15",
+          "name": "音声付き"
+        },
+        {
+          "id": "514",
+          "name": "アクション・格闘"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4127",
+          "name": "アドベンチャー"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5005",
+          "name": "アナル"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160036",
+          "name": "わからせ"
+        },
+        {
+          "id": "160058",
+          "name": "潮吹き"
+        },
+        {
+          "id": "160212",
+          "name": "戦闘エロ"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        }
+      ],
+      "maker": {
+        "id": "208988",
+        "name": "AIART REINA"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-009.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-010.jpg"
+      ]
+    },
+    {
       "productId": "sone00652",
       "title": "パパ活で適当にシコってやってたら、ある日おっさんに変な薬（いわゆる媚薬）盛られて…それからはキモチ●ポが欲しくてたまらなくアソコ濡れるんです。 白上咲花",
       "priceYen": 780,
@@ -33841,97 +33932,6 @@
         "sp": true,
         "pc": true
       }
-    },
-    {
-      "productId": "d_845222",
-      "title": "会員制格闘クラブ ―崩して剥いで、寝技から本番まで。師範4人・動画1，750本―（実写系）",
-      "priceYen": 3630,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥3,630（セール中 ¥1,815）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222pl.jpg",
-      "reviewCount": 83,
-      "reviewAverage": 4.54,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_845222%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 58,
-      "releaseDate": "2026-11-06T00:00:00+09:00",
-      "campaignTitle": "50%OFF",
-      "discountPct": 50,
-      "genres": [
-        {
-          "id": "13",
-          "name": "動画・アニメーション"
-        },
-        {
-          "id": "15",
-          "name": "音声付き"
-        },
-        {
-          "id": "514",
-          "name": "アクション・格闘"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4127",
-          "name": "アドベンチャー"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5005",
-          "name": "アナル"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160036",
-          "name": "わからせ"
-        },
-        {
-          "id": "160058",
-          "name": "潮吹き"
-        },
-        {
-          "id": "160212",
-          "name": "戦闘エロ"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        }
-      ],
-      "maker": {
-        "id": "208988",
-        "name": "AIART REINA"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-009.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_845222/d_845222jp-010.jpg"
-      ]
     },
     {
       "productId": "sqte00658",
@@ -35071,6 +35071,86 @@
       ]
     },
     {
+      "productId": "d_840192",
+      "title": "裏切りの密室",
+      "priceYen": 1320,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,320（セール中 ¥1,056）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192pl.jpg",
+      "reviewCount": 8,
+      "reviewAverage": 5,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_840192%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 153,
+      "pages": 120,
+      "releaseDate": "2026-11-04T00:00:00+09:00",
+      "discountPct": 19,
+      "genres": [
+        {
+          "id": "27",
+          "name": "辱め"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4111",
+          "name": "寝取り・寝取られ・NTR"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160048",
+          "name": "連続絶頂"
+        },
+        {
+          "id": "160120",
+          "name": "上司"
+        },
+        {
+          "id": "160146",
+          "name": "快楽堕ち"
+        },
+        {
+          "id": "160168",
+          "name": "だいしゅきホールド"
+        }
+      ],
+      "maker": {
+        "id": "27599",
+        "name": "overdose"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-007.jpg"
+      ]
+    },
+    {
       "productId": "h_386acrn00491",
       "title": "今日は指輪を外すから…… ～戻れない……カラダ◆～",
       "priceYen": 4200,
@@ -35144,86 +35224,6 @@
         "sp": true,
         "pc": true
       }
-    },
-    {
-      "productId": "d_840192",
-      "title": "裏切りの密室",
-      "priceYen": 1320,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥1,320（セール中 ¥1,056）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192pl.jpg",
-      "reviewCount": 7,
-      "reviewAverage": 5,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_840192%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 153,
-      "pages": 120,
-      "releaseDate": "2026-11-04T00:00:00+09:00",
-      "discountPct": 19,
-      "genres": [
-        {
-          "id": "27",
-          "name": "辱め"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4111",
-          "name": "寝取り・寝取られ・NTR"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160048",
-          "name": "連続絶頂"
-        },
-        {
-          "id": "160120",
-          "name": "上司"
-        },
-        {
-          "id": "160146",
-          "name": "快楽堕ち"
-        },
-        {
-          "id": "160168",
-          "name": "だいしゅきホールド"
-        }
-      ],
-      "maker": {
-        "id": "27599",
-        "name": "overdose"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_840192/d_840192jp-007.jpg"
-      ]
     },
     {
       "productId": "b351ammrc11167",
@@ -42871,6 +42871,94 @@
       ]
     },
     {
+      "productId": "d_752034",
+      "title": "同じマンションでよく会うお気に入りの彼女が実はデリヘル嬢だった件〜ネットで特定しホテルでプレイできちゃったどころかNS→NNに至った顛末〜",
+      "priceYen": 1100,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,100（セール中 ¥770）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034pl.jpg",
+      "reviewCount": 3,
+      "reviewAverage": 4.33,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_752034%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "pages": 50,
+      "releaseDate": "2026-04-10T00:00:00+09:00",
+      "campaignTitle": "30%OFF",
+      "discountPct": 30,
+      "genres": [
+        {
+          "id": "2006",
+          "name": "スレンダー"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "6164",
+          "name": "ビッチ"
+        },
+        {
+          "id": "152015",
+          "name": "売春・援交"
+        },
+        {
+          "id": "152017",
+          "name": "風俗・ソープ"
+        },
+        {
+          "id": "154009",
+          "name": "ツインテール"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160042",
+          "name": "アヘ顔"
+        },
+        {
+          "id": "160048",
+          "name": "連続絶頂"
+        },
+        {
+          "id": "160099",
+          "name": "オホ声"
+        }
+      ],
+      "maker": {
+        "id": "20411",
+        "name": "Sage"
+      },
+      "series": {
+        "id": "3025721",
+        "name": "僕の名古屋風俗体験記"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-007.jpg"
+      ]
+    },
+    {
       "productId": "d_851794",
       "title": "『ふたなり娘を毎日、亀頭責めやオナホコキで徹底的に寸止めしながら一年以上射精禁止生活をさせてみた』【ボイス版】 FANZA版",
       "priceYen": 770,
@@ -43867,94 +43955,6 @@
         "sp": true,
         "pc": true
       }
-    },
-    {
-      "productId": "d_752034",
-      "title": "同じマンションでよく会うお気に入りの彼女が実はデリヘル嬢だった件〜ネットで特定しホテルでプレイできちゃったどころかNS→NNに至った顛末〜",
-      "priceYen": 1100,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥1,100（セール中 ¥770）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034pl.jpg",
-      "reviewCount": 3,
-      "reviewAverage": 4.33,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_752034%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "pages": 50,
-      "releaseDate": "2026-04-10T00:00:00+09:00",
-      "campaignTitle": "30%OFF",
-      "discountPct": 30,
-      "genres": [
-        {
-          "id": "2006",
-          "name": "スレンダー"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "6164",
-          "name": "ビッチ"
-        },
-        {
-          "id": "152015",
-          "name": "売春・援交"
-        },
-        {
-          "id": "152017",
-          "name": "風俗・ソープ"
-        },
-        {
-          "id": "154009",
-          "name": "ツインテール"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160042",
-          "name": "アヘ顔"
-        },
-        {
-          "id": "160048",
-          "name": "連続絶頂"
-        },
-        {
-          "id": "160099",
-          "name": "オホ声"
-        }
-      ],
-      "maker": {
-        "id": "20411",
-        "name": "Sage"
-      },
-      "series": {
-        "id": "3025721",
-        "name": "僕の名古屋風俗体験記"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_752034/d_752034jp-007.jpg"
-      ]
     },
     {
       "productId": "juny00013",
@@ -47940,8 +47940,8 @@
       "priceKind": "purchase",
       "priceLabel": "購入 ¥1,980（セール中 ¥1,386）",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_836369/d_836369pl.jpg",
-      "reviewCount": 137,
-      "reviewAverage": 4.33,
+      "reviewCount": 139,
+      "reviewAverage": 4.32,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_836369%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
       "floorLabel": "同人",
@@ -72059,93 +72059,6 @@
       }
     },
     {
-      "productId": "d_829237",
-      "title": "【早期購入特典あり】孕ませ団地妻〜孕むまで中出しして〜",
-      "priceYen": 2750,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥2,750（セール中 ¥1,375）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237pl.jpg",
-      "reviewCount": 25,
-      "reviewAverage": 3.92,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_829237%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "apiRank": 79,
-      "releaseDate": "2026-09-30T16:00:00+09:00",
-      "campaignTitle": "50%OFF",
-      "discountPct": 50,
-      "genres": [
-        {
-          "id": "1014",
-          "name": "熟女"
-        },
-        {
-          "id": "1025",
-          "name": "未亡人"
-        },
-        {
-          "id": "1029",
-          "name": "妊婦"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "4111",
-          "name": "寝取り・寝取られ・NTR"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "7110",
-          "name": "シミュレーション"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160018",
-          "name": "妊娠・孕ませ"
-        }
-      ],
-      "maker": {
-        "id": "236094",
-        "name": "なまこっち"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-009.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-010.jpg"
-      ]
-    },
-    {
       "productId": "cmn00267",
       "title": "東雲勇太セレクション 汚辱のフェチ嬲虐女体破壊",
       "priceYen": 2280,
@@ -72554,6 +72467,93 @@
         "sp": true,
         "pc": true
       }
+    },
+    {
+      "productId": "d_829237",
+      "title": "【早期購入特典あり】孕ませ団地妻〜孕むまで中出しして〜",
+      "priceYen": 2750,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥2,750（セール中 ¥1,375）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237pl.jpg",
+      "reviewCount": 26,
+      "reviewAverage": 3.88,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_829237%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "apiRank": 79,
+      "releaseDate": "2026-09-30T16:00:00+09:00",
+      "campaignTitle": "50%OFF",
+      "discountPct": 50,
+      "genres": [
+        {
+          "id": "1014",
+          "name": "熟女"
+        },
+        {
+          "id": "1025",
+          "name": "未亡人"
+        },
+        {
+          "id": "1029",
+          "name": "妊婦"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "4111",
+          "name": "寝取り・寝取られ・NTR"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "7110",
+          "name": "シミュレーション"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160018",
+          "name": "妊娠・孕ませ"
+        }
+      ],
+      "maker": {
+        "id": "236094",
+        "name": "なまこっち"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-009.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/game/d_829237/d_829237jp-010.jpg"
+      ]
     },
     {
       "productId": "ofje00426",
@@ -93377,93 +93377,6 @@
       ]
     },
     {
-      "productId": "d_651744",
-      "title": "ヤリバイト「うちの妻を孕ませるだけのお仕事です」",
-      "priceYen": 990,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥990（セール中 ¥693）",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744pl.jpg",
-      "reviewCount": 0,
-      "reviewAverage": 0,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_651744%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "pages": 110,
-      "releaseDate": "2026-10-20T16:00:00+09:00",
-      "campaignTitle": "30%OFF",
-      "discountPct": 30,
-      "genres": [
-        {
-          "id": "2001",
-          "name": "巨乳"
-        },
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "153003",
-          "name": "おっぱい"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160018",
-          "name": "妊娠・孕ませ"
-        },
-        {
-          "id": "1014",
-          "name": "熟女"
-        },
-        {
-          "id": "1039",
-          "name": "人妻・主婦"
-        },
-        {
-          "id": "156021",
-          "name": "専売"
-        },
-        {
-          "id": "25",
-          "name": "拘束"
-        },
-        {
-          "id": "5005",
-          "name": "アナル"
-        },
-        {
-          "id": "151008",
-          "name": "ストッキング"
-        }
-      ],
-      "maker": {
-        "id": "226048",
-        "name": "ぐれーぞーん"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-005.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-006.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-007.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-008.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-009.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-010.jpg"
-      ]
-    },
-    {
       "productId": "mfyd00215",
       "title": "めっちゃ上から目線のイイオンナに見下されながらオナニーしたい！！ 十和ひかるのサディズムボイスで超没入オナサポSpecial 完全主観×バイノーラルASMR×パーフェクトJOI 十和ひかる",
       "priceYen": 2180,
@@ -95130,6 +95043,93 @@
         "sp": true,
         "pc": true
       }
+    },
+    {
+      "productId": "d_651744",
+      "title": "ヤリバイト「うちの妻を孕ませるだけのお仕事です」",
+      "priceYen": 990,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥990（セール中 ¥693）",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744pl.jpg",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_651744%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "pages": 110,
+      "releaseDate": "2026-10-20T16:00:00+09:00",
+      "campaignTitle": "30%OFF",
+      "discountPct": 30,
+      "genres": [
+        {
+          "id": "2001",
+          "name": "巨乳"
+        },
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "153003",
+          "name": "おっぱい"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160018",
+          "name": "妊娠・孕ませ"
+        },
+        {
+          "id": "1014",
+          "name": "熟女"
+        },
+        {
+          "id": "1039",
+          "name": "人妻・主婦"
+        },
+        {
+          "id": "156021",
+          "name": "専売"
+        },
+        {
+          "id": "25",
+          "name": "拘束"
+        },
+        {
+          "id": "5005",
+          "name": "アナル"
+        },
+        {
+          "id": "151008",
+          "name": "ストッキング"
+        }
+      ],
+      "maker": {
+        "id": "226048",
+        "name": "ぐれーぞーん"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-005.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-006.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-007.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-008.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-009.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/comic/d_651744/d_651744jp-010.jpg"
+      ]
     },
     {
       "productId": "mida00862",
@@ -105993,7 +105993,7 @@
       "priceKind": "purchase",
       "priceLabel": "購入 ¥770",
       "imageURL": "https://doujin-assets.dmm.co.jp/digital/comic/d_821747/d_821747pl.jpg",
-      "reviewCount": 2,
+      "reviewCount": 3,
       "reviewAverage": 5,
       "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_821747%2F&af_id=nightidx26-001&ch=api",
       "floor": "digital_doujin",
@@ -106793,7 +106793,7 @@
       "actresses": [
         "白雪美月"
       ],
-      "volumeMinutes": 105,
+      "volumeMinutes": 107,
       "genres": [
         {
           "id": "6548",
@@ -110750,6 +110750,85 @@
       }
     },
     {
+      "productId": "d_720079",
+      "title": "【実演オナニー】60分拡大SP！！全身ヌルヌル性感UPローションまみれ！！超敏感で意図せず潮吹き絶頂！！『なんか、しゅごい……きもちぃ……！（プシャー！！） 』",
+      "priceYen": 1210,
+      "priceKind": "purchase",
+      "priceLabel": "購入 ¥1,210",
+      "imageURL": "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079pl.jpg",
+      "reviewCount": 0,
+      "reviewAverage": 0,
+      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_720079%2F&af_id=nightidx26-001&ch=api",
+      "floor": "digital_doujin",
+      "floorLabel": "同人",
+      "releaseDate": "2026-01-10T00:00:00+09:00",
+      "genres": [
+        {
+          "id": "5001",
+          "name": "中出し"
+        },
+        {
+          "id": "5002",
+          "name": "フェラ"
+        },
+        {
+          "id": "5008",
+          "name": "オナニー"
+        },
+        {
+          "id": "5057",
+          "name": "ローション・オイル"
+        },
+        {
+          "id": "150003",
+          "name": "ノンフィクション・体験談"
+        },
+        {
+          "id": "155014",
+          "name": "機械姦"
+        },
+        {
+          "id": "156022",
+          "name": "男性向け"
+        },
+        {
+          "id": "156023",
+          "name": "成人向け"
+        },
+        {
+          "id": "160048",
+          "name": "連続絶頂"
+        },
+        {
+          "id": "160058",
+          "name": "潮吹き"
+        },
+        {
+          "id": "160099",
+          "name": "オホ声"
+        },
+        {
+          "id": "160101",
+          "name": "実演"
+        }
+      ],
+      "maker": {
+        "id": "209345",
+        "name": "実演オホ声"
+      },
+      "series": {
+        "id": "3022577",
+        "name": "【全身ヌルヌル性感UPローションまみれ】"
+      },
+      "sampleImages": [
+        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-001.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-002.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-003.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-004.jpg",
+        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-005.jpg"
+      ]
+    },
+    {
       "productId": "d_839923",
       "title": "ちょろすぎ！！完璧メイドゆかりさん！！",
       "priceYen": 550,
@@ -111639,85 +111718,6 @@
         "https://doujin-assets.dmm.co.jp/digital/game/d_835957/d_835957jp-008.jpg",
         "https://doujin-assets.dmm.co.jp/digital/game/d_835957/d_835957jp-009.jpg",
         "https://doujin-assets.dmm.co.jp/digital/game/d_835957/d_835957jp-010.jpg"
-      ]
-    },
-    {
-      "productId": "d_720079",
-      "title": "【実演オナニー】60分拡大SP！！全身ヌルヌル性感UPローションまみれ！！超敏感で意図せず潮吹き絶頂！！『なんか、しゅごい……きもちぃ……！（プシャー！！） 』",
-      "priceYen": 1210,
-      "priceKind": "purchase",
-      "priceLabel": "購入 ¥1,210",
-      "imageURL": "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079pl.jpg",
-      "reviewCount": 0,
-      "reviewAverage": 0,
-      "affiliateURL": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_720079%2F&af_id=nightidx26-001&ch=api",
-      "floor": "digital_doujin",
-      "floorLabel": "同人",
-      "releaseDate": "2026-01-10T00:00:00+09:00",
-      "genres": [
-        {
-          "id": "5001",
-          "name": "中出し"
-        },
-        {
-          "id": "5002",
-          "name": "フェラ"
-        },
-        {
-          "id": "5008",
-          "name": "オナニー"
-        },
-        {
-          "id": "5057",
-          "name": "ローション・オイル"
-        },
-        {
-          "id": "150003",
-          "name": "ノンフィクション・体験談"
-        },
-        {
-          "id": "155014",
-          "name": "機械姦"
-        },
-        {
-          "id": "156022",
-          "name": "男性向け"
-        },
-        {
-          "id": "156023",
-          "name": "成人向け"
-        },
-        {
-          "id": "160048",
-          "name": "連続絶頂"
-        },
-        {
-          "id": "160058",
-          "name": "潮吹き"
-        },
-        {
-          "id": "160099",
-          "name": "オホ声"
-        },
-        {
-          "id": "160101",
-          "name": "実演"
-        }
-      ],
-      "maker": {
-        "id": "209345",
-        "name": "実演オホ声"
-      },
-      "series": {
-        "id": "3022577",
-        "name": "【全身ヌルヌル性感UPローションまみれ】"
-      },
-      "sampleImages": [
-        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-001.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-002.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-003.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-004.jpg",
-        "https://doujin-assets.dmm.co.jp/digital/voice/d_720079/d_720079jp-005.jpg"
       ]
     },
     {
