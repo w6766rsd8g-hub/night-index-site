@@ -56,3 +56,39 @@
   controls[n].focus()
  });
 })();
+
+// GROKBOT-20261124 daily growth: archived / sale-ended item pages (all /item/ landings in GA4 11/17-11/23) had no path to
+// anything currently on sale. Show 「いまセール中の近い作品」 from /data/now-sale.json (real FANZA catalog data written by the
+// daily sync; internal links only), matched by this page's own actress/maker/genre links. Behind the 18+ gate (inside the
+// inert page). Shows nothing on current item pages, on failure, or when the JSON is absent (kill: NIGHT_INDEX_NOW_SALE_DISABLED=1).
+/*NI_NOW_PICK*/function niNowPick(d,f,now){
+ const cur=new Set(d.cur||[]);if(!f.id||(!f.ended&&cur.has(f.id)))return [];
+ const doujin=/^d_/.test(f.id);const A=new Set(f.actresses||[]),G=new Set(f.genres||[]);
+ return (d.items||[]).filter(x=>x.i!==f.id&&x.e>now&&/^d_/.test(x.i)===doujin).map(x=>{
+  let sc=0;for(const a of x.a||[])if(A.has(a))sc+=6;if(f.maker&&x.m===f.maker)sc+=4;for(const g of x.g||[])if(G.has(g))sc+=1;return [sc,x]})
+  .filter(e=>e[0]>=2).sort((a,b)=>b[0]-a[0]||b[1].p-a[1].p||b[1].n-a[1].n).slice(0,8).map(e=>e[1]);
+}/*/NI_NOW_PICK*/
+(()=>{
+ try{
+  const m=/^\/item\/([a-z0-9_-]+)\.html$/i.exec(location.pathname);if(!m||document.querySelector('[data-now-sale]'))return;
+  const info=document.querySelector('.d-info');const anchor=document.querySelector('main section.rail:not(.recent)')||document.querySelector('main .sticky-cta');
+  if(!info||!anchor)return;
+  const cd=document.querySelector('.cd.big[data-end]');const ended=!!cd&&Number(cd.getAttribute('data-end'))<Date.now();
+  const links=s=>[...info.querySelectorAll('a[href^="/'+s+'/"]')];
+  const f={id:m[1],ended,maker:((links('maker')[0]||{}).getAttribute?.('href')||'').replace(/^\/maker\/|\.html$/g,''),
+   genres:links('genre').map(a=>a.getAttribute('href').replace(/^\/genre\/|\.html$/g,'')),
+   actresses:links('actress').map(a=>a.textContent.trim()).filter(t=>t&&!/すべて見る/.test(t))};
+  fetch('/data/now-sale.json',{credentials:'omit'}).then(r=>r.ok?r.json():null).then(d=>{
+   if(!d||document.querySelector('[data-now-sale]'))return;const now=Date.now();const xs=niNowPick(d,f,now);if(xs.length<2)return;
+   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+   const jp=ms=>{const t=new Date(ms+9*3600e3);return `${t.getUTCMonth()+1}月${t.getUTCDate()}日 ${t.getUTCHours()}:${String(t.getUTCMinutes()).padStart(2,'0')} JSTまで`};
+   const at=new Date(Date.parse(d.at)+9*3600e3);const atS=isNaN(at)?'':`${at.getUTCMonth()+1}月${at.getUTCDate()}日 ${at.getUTCHours()}:${String(at.getUTCMinutes()).padStart(2,'0')} JST時点の`;
+   const sec=document.createElement('section');sec.className='rail now-sale';sec.setAttribute('data-now-sale','');
+   sec.innerHTML=`<div class="rail-h"><h2>いまセール中の近い作品</h2></div><p class="note">${ended?'この作品のセールは終了しています。':''}${atS}FANZA公式データから、出演者・メーカー・ジャンルが近いセール中の作品です。価格・期限は変わることがあります。</p><div class="rail-s">`+
+    xs.map(x=>`<a class="c" href="/item/${esc(x.i)}.html" data-now="1"><div class="ph"><b class="bd off">-${Number(x.p)||0}%</b><img src="${esc(x.im)}" alt="${esc(x.t)}" width="800" height="538" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="cb"><h3>${esc(x.t)}</h3>${(x.a||[]).length?`<p class="ac">${esc(x.a.slice(0,2).join('・'))}</p>`:''}<p class="pr-l"><span class="now">${esc(x.s)}</span><s>${esc(x.l)}</s></p><p class="mt">${x.n>0?`<span>★${esc(x.r)}（レビュー${Number(x.n)}件）</span>`:''}<span class="cd" data-end="${Number(x.e)}">${jp(Number(x.e))}</span></p></div></a>`).join('')+'</div>';
+   anchor.parentNode.insertBefore(sec,anchor);
+   try{if(typeof window.gtag==='function')window.gtag('event','ni_now_view',{items:xs.length,ended:ended?1:0})}catch{}
+   sec.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a[data-now]');if(a)try{if(typeof window.gtag==='function')window.gtag('event','ni_now_click',{to:a.getAttribute('href')})}catch{}});
+  }).catch(()=>{});
+ }catch{}
+})();
